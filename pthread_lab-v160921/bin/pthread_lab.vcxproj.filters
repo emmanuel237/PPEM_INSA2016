@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\ekiegain\Documents\TP_PPEM\pthread_lab-v160921\src\clock.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ekiegain\Documents\TP_PPEM\pthread_lab-v160921\src\main.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ekiegain\Documents\TP_PPEM\pthread_lab-v160921\src\yuvDisplay.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ekiegain\Documents\TP_PPEM\pthread_lab-v160921\src\yuvRead.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\sobel.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\ekiegain\Documents\TP_PPEM\pthread_lab-v160921\include\clock.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ekiegain\Documents\TP_PPEM\pthread_lab-v160921\include\yuvDisplay.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ekiegain\Documents\TP_PPEM\pthread_lab-v160921\include\yuvRead.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\sobel.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\ekiegain\Documents\TP_PPEM\pthread_lab-v160921\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{3D837F9A-F985-3EE9-BFA2-559B90E73F8D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{640A9150-E565-38B1-86A3-4A3A5EF2EC3A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

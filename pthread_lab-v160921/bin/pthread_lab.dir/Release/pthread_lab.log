@@ -1,0 +1,23 @@
+﻿La génération a démarré 20/12/2016 00:07:20.
+     1>Projet "C:\Users\ekiegain\Documents\TP_PPEM\pthread_lab-v160921\bin\pthread_lab.vcxproj" sur le nœud 2 (Build cible(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Users\ekiegain\Documents\TP_PPEM\pthread_lab-v160921\include" /I"C:\Users\ekiegain\Documents\TP_PPEM\pthread_lab-v160921\lib\SDL2-2.0.5\include" /I"C:\Users\ekiegain\Documents\TP_PPEM\pthread_lab-v160921\lib\pthread-2.8.0\include" /Zi /nologo /W3 /WX- /O2 /Ob2 /Oy- /D WIN32 /D _WINDOWS /D NDEBUG /D _CRT_SECURE_NO_WARNINGS /D "PROJECT_ROOT_PATH=\"C:/Users/ekiegain/Documents/TP_PPEM/pthread_lab-v160921\"" /D "CMAKE_INTDIR=\"Release\"" /D _MBCS /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"pthread_lab.dir\Release\\" /Fd"pthread_lab.dir\Release\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt "C:\Users\ekiegain\Documents\TP_PPEM\pthread_lab-v160921\src\main.c"
+         main.c
+     1>c:\users\ekiegain\documents\tp_ppem\pthread_lab-v160921\src\main.c(247): warning C4716: 'sobel_thread' : doit retourner une valeur
+     1>c:\users\ekiegain\documents\tp_ppem\pthread_lab-v160921\src\main.c(275): warning C4716: 'sobel_slv_thread_sync' : doit retourner une valeur
+     1>c:\users\ekiegain\documents\tp_ppem\pthread_lab-v160921\src\main.c(261): warning C4716: 'sobel_slv_thread' : doit retourner une valeur
+     1>c:\users\ekiegain\documents\tp_ppem\pthread_lab-v160921\src\main.c(283): warning C4716: 'sobel_borders_tread' : doit retourner une valeur
+     1>c:\users\ekiegain\documents\tp_ppem\pthread_lab-v160921\src\main.c(299): warning C4716: 'sobel_borders_slv_thread' : doit retourner une valeur
+     1>c:\users\ekiegain\documents\tp_ppem\pthread_lab-v160921\src\main.c(313): warning C4716: 'sobel_borders_slv_thread_sync' : doit retourner une valeur
+       Link:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\ekiegain\Documents\TP_PPEM\pthread_lab-v160921\bin\Release\pthread_lab.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib "..\lib\SDL2-2.0.5\lib\SDL2main.lib" "..\lib\SDL2-2.0.5\lib\SDL2.lib" "..\lib\pthread-2.8.0\lib\pthreadVC2.lib" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/ekiegain/Documents/TP_PPEM/pthread_lab-v160921/bin/Release/pthread_lab.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/ekiegain/Documents/TP_PPEM/pthread_lab-v160921/bin/Release/pthread_lab.lib" /MACHINE:X86 /PROFILE /SAFESEH  /machine:X86 pthread_lab.dir\Release\sobel.obj
+         pthread_lab.dir\Release\clock.obj
+         pthread_lab.dir\Release\main.obj
+         pthread_lab.dir\Release\yuvDisplay.obj
+         pthread_lab.dir\Release\yuvRead.obj
+         pthread_lab.vcxproj -> C:\Users\ekiegain\Documents\TP_PPEM\pthread_lab-v160921\bin\Release\pthread_lab.exe
+     1>Génération du projet "C:\Users\ekiegain\Documents\TP_PPEM\pthread_lab-v160921\bin\pthread_lab.vcxproj" terminée (Build cible(s)).
+
+La génération a réussi.
+
+Temps écoulé 00:00:00.50

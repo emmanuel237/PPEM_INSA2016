@@ -1,0 +1,2998 @@
+
+Main: 299 frames in 198780 us - 1504.175470 fps
+
+Main: 299 frames in 198724 us - 1504.599344 fps
+
+Main: 299 frames in 197516 us - 1513.801414 fps
+
+Main: 299 frames in 197609 us - 1513.088979 fps
+
+Main: 299 frames in 196557 us - 1521.187238 fps
+
+Main: 299 frames in 196516 us - 1521.504610 fps
+
+Main: 299 frames in 195612 us - 1528.536082 fps
+
+Main: 299 frames in 202123 us - 1479.297260 fps
+
+Main: 299 frames in 200174 us - 1493.700481 fps
+
+Main: 299 frames in 196934 us - 1518.275158 fps
+
+Main: 299 frames in 198124 us - 1509.155882 fps
+
+Main: 299 frames in 197632 us - 1512.912889 fps
+
+Main: 299 frames in 199673 us - 1497.448328 fps
+
+Main: 299 frames in 197121 us - 1516.834837 fps
+
+Main: 299 frames in 196815 us - 1519.193151 fps
+
+Main: 299 frames in 194650 us - 1536.090419 fps
+
+Main: 299 frames in 197527 us - 1513.717112 fps
+
+Main: 299 frames in 197286 us - 1515.566234 fps
+
+Main: 299 frames in 196435 us - 1522.132003 fps
+
+Main: 299 frames in 199049 us - 1502.142688 fps
+
+Main: 299 frames in 201024 us - 1487.384591 fps
+
+Main: 299 frames in 196464 us - 1521.907321 fps
+
+Main: 299 frames in 200599 us - 1490.535845 fps
+
+Main: 299 frames in 199551 us - 1498.363827 fps
+
+Main: 299 frames in 198205 us - 1508.539139 fps
+
+Main: 299 frames in 198765 us - 1504.288984 fps
+
+Main: 299 frames in 196749 us - 1519.702769 fps
+
+Main: 299 frames in 195848 us - 1526.694171 fps
+
+Main: 299 frames in 193898 us - 1542.047881 fps
+
+Main: 299 frames in 197721 us - 1512.231882 fps
+
+Main: 299 frames in 198323 us - 1507.641575 fps
+
+Main: 299 frames in 198111 us - 1509.254913 fps
+
+Main: 299 frames in 196395 us - 1522.442017 fps
+
+Main: 299 frames in 200036 us - 1494.730948 fps
+
+Main: 299 frames in 198814 us - 1503.918235 fps
+
+Main: 299 frames in 196631 us - 1520.614756 fps
+
+Main: 299 frames in 196269 us - 1523.419389 fps
+
+Main: 299 frames in 198395 us - 1507.094433 fps
+
+Main: 299 frames in 196425 us - 1522.209495 fps
+
+Main: 299 frames in 201256 us - 1485.669992 fps
+
+Main: 299 frames in 200330 us - 1492.537313 fps
+
+Main: 299 frames in 197596 us - 1513.188526 fps
+
+Main: 299 frames in 197813 us - 1511.528565 fps
+
+Main: 299 frames in 199281 us - 1500.393916 fps
+
+Main: 299 frames in 199983 us - 1495.127086 fps
+
+Main: 299 frames in 198118 us - 1509.201587 fps
+
+Main: 299 frames in 198322 us - 1507.649177 fps
+
+Main: 299 frames in 197228 us - 1516.011925 fps
+
+Main: 299 frames in 198490 us - 1506.373117 fps
+
+Main: 299 frames in 198769 us - 1504.258712 fps
+
+Main: 299 frames in 196784 us - 1519.432474 fps
+
+Main: 299 frames in 199839 us - 1496.204445 fps
+
+Main: 299 frames in 200483 us - 1491.398273 fps
+
+Main: 299 frames in 193531 us - 1544.972123 fps
+
+Main: 299 frames in 196778 us - 1519.478804 fps
+
+Main: 299 frames in 195099 us - 1532.555267 fps
+
+Main: 299 frames in 195881 us - 1526.436969 fps
+
+Main: 299 frames in 200169 us - 1493.737792 fps
+
+Main: 299 frames in 199447 us - 1499.145136 fps
+
+Main: 299 frames in 194387 us - 1538.168705 fps
+
+Main: 299 frames in 199101 us - 1501.750368 fps
+
+Main: 299 frames in 202704 us - 1475.057226 fps
+
+Main: 299 frames in 196822 us - 1519.139121 fps
+
+Main: 299 frames in 197436 us - 1514.414798 fps
+
+Main: 299 frames in 196760 us - 1519.617808 fps
+
+Main: 299 frames in 198610 us - 1505.462968 fps
+
+Main: 299 frames in 199137 us - 1501.478881 fps
+
+Main: 299 frames in 197780 us - 1511.780767 fps
+
+Main: 299 frames in 199776 us - 1496.676277 fps
+
+Main: 299 frames in 196953 us - 1518.128691 fps
+
+Main: 299 frames in 200235 us - 1493.245437 fps
+
+Main: 299 frames in 199864 us - 1496.017292 fps
+
+Main: 299 frames in 200890 us - 1488.376724 fps
+
+Main: 299 frames in 199331 us - 1500.017559 fps
+
+Main: 299 frames in 196976 us - 1517.951426 fps
+
+Main: 299 frames in 197575 us - 1513.349361 fps
+
+Main: 299 frames in 199325 us - 1500.062712 fps
+
+Main: 299 frames in 198654 us - 1505.129522 fps
+
+Main: 299 frames in 197687 us - 1512.491970 fps
+
+Main: 299 frames in 198019 us - 1509.956115 fps
+
+Main: 299 frames in 199795 us - 1496.533947 fps
+
+Main: 299 frames in 197319 us - 1515.312768 fps
+
+Main: 299 frames in 197567 us - 1513.410640 fps
+
+Main: 299 frames in 199246 us - 1500.657479 fps
+
+Main: 299 frames in 197328 us - 1515.243655 fps
+
+Main: 299 frames in 197334 us - 1515.197584 fps
+
+Main: 299 frames in 200873 us - 1488.502686 fps
+
+Main: 299 frames in 200131 us - 1494.021416 fps
+
+Main: 299 frames in 199188 us - 1501.094443 fps
+
+Main: 299 frames in 195757 us - 1527.403873 fps
+
+Main: 299 frames in 196058 us - 1525.058911 fps
+
+Main: 299 frames in 198116 us - 1509.216822 fps
+
+Main: 299 frames in 200222 us - 1493.342390 fps
+
+Main: 299 frames in 198769 us - 1504.258712 fps
+
+Main: 299 frames in 200643 us - 1490.208978 fps
+
+Main: 299 frames in 200733 us - 1489.540833 fps
+
+Main: 299 frames in 199013 us - 1502.414415 fps
+
+Main: 299 frames in 200724 us - 1489.607620 fps
+
+Main: 299 frames in 194605 us - 1536.445621 fps
+
+Main: 299 frames in 199430 us - 1499.272928 fps
+
+Main: 299 frames in 198936 us - 1502.995938 fps
+
+Main: 299 frames in 193820 us - 1542.668455 fps
+
+Main: 299 frames in 198616 us - 1505.417489 fps
+
+Main: 299 frames in 195595 us - 1528.668933 fps
+
+Main: 299 frames in 200646 us - 1490.186697 fps
+
+Main: 299 frames in 197770 us - 1511.857208 fps
+
+Main: 299 frames in 201493 us - 1483.922518 fps
+
+Main: 299 frames in 193775 us - 1543.026706 fps
+
+Main: 299 frames in 199091 us - 1501.825798 fps
+
+Main: 299 frames in 193694 us - 1543.671977 fps
+
+Main: 299 frames in 198678 us - 1504.947704 fps
+
+Main: 299 frames in 197005 us - 1517.727976 fps
+
+Main: 299 frames in 198347 us - 1507.459150 fps
+
+Main: 299 frames in 198472 us - 1506.509734 fps
+
+Main: 299 frames in 197226 us - 1516.027299 fps
+
+Main: 299 frames in 197133 us - 1516.742504 fps
+
+Main: 299 frames in 200406 us - 1491.971298 fps
+
+Main: 299 frames in 196427 us - 1522.193996 fps
+
+Main: 299 frames in 197632 us - 1512.912889 fps
+
+Main: 299 frames in 195348 us - 1530.601798 fps
+
+Main: 299 frames in 197227 us - 1516.019612 fps
+
+Main: 299 frames in 197284 us - 1515.581598 fps
+
+Main: 299 frames in 196152 us - 1524.328072 fps
+
+Main: 299 frames in 195553 us - 1528.997254 fps
+
+Main: 299 frames in 198625 us - 1505.349276 fps
+
+Main: 299 frames in 200252 us - 1493.118670 fps
+
+Main: 299 frames in 198601 us - 1505.531191 fps
+
+Main: 299 frames in 197942 us - 1510.543493 fps
+
+Main: 299 frames in 199813 us - 1496.399133 fps
+
+Main: 299 frames in 200738 us - 1489.503731 fps
+
+Main: 299 frames in 194327 us - 1538.643626 fps
+
+Main: 299 frames in 198623 us - 1505.364434 fps
+
+Main: 299 frames in 198552 us - 1505.902736 fps
+
+Main: 299 frames in 197313 us - 1515.358846 fps
+
+Main: 299 frames in 199909 us - 1495.680535 fps
+
+Main: 299 frames in 200716 us - 1489.666992 fps
+
+Main: 299 frames in 198077 us - 1509.513977 fps
+
+Main: 299 frames in 199383 us - 1499.626347 fps
+
+Main: 299 frames in 196199 us - 1523.962915 fps
+
+Main: 299 frames in 197509 us - 1513.855065 fps
+
+Main: 299 frames in 195730 us - 1527.614571 fps
+
+Main: 299 frames in 202129 us - 1479.253348 fps
+
+Main: 299 frames in 196932 us - 1518.290577 fps
+
+Main: 299 frames in 196676 us - 1520.266835 fps
+
+Main: 299 frames in 200312 us - 1492.671433 fps
+
+Main: 299 frames in 195729 us - 1527.622376 fps
+
+Main: 299 frames in 192075 us - 1556.683587 fps
+
+Main: 299 frames in 199226 us - 1500.808127 fps
+
+Main: 299 frames in 198823 us - 1503.850158 fps
+
+Main: 299 frames in 200365 us - 1492.276595 fps
+
+Main: 299 frames in 201032 us - 1487.325401 fps
+
+Main: 299 frames in 199862 us - 1496.032262 fps
+
+Main: 299 frames in 202078 us - 1479.626679 fps
+
+Main: 299 frames in 197373 us - 1514.898188 fps
+
+Main: 299 frames in 197670 us - 1512.622047 fps
+
+Main: 299 frames in 198142 us - 1509.018785 fps
+
+Main: 299 frames in 200185 us - 1493.618403 fps
+
+Main: 299 frames in 200949 us - 1487.939726 fps
+
+Main: 299 frames in 198662 us - 1505.068911 fps
+
+Main: 299 frames in 196192 us - 1524.017289 fps
+
+Main: 299 frames in 192625 us - 1552.238806 fps
+
+Main: 299 frames in 199766 us - 1496.751199 fps
+
+Main: 299 frames in 198815 us - 1503.910671 fps
+
+Main: 299 frames in 198149 us - 1508.965475 fps
+
+Main: 299 frames in 199589 us - 1498.078551 fps
+
+Main: 299 frames in 197771 us - 1511.849563 fps
+
+Main: 299 frames in 199745 us - 1496.908558 fps
+
+Main: 299 frames in 199771 us - 1496.713737 fps
+
+Main: 299 frames in 200289 us - 1492.842842 fps
+
+Main: 299 frames in 196911 us - 1518.452499 fps
+
+Main: 299 frames in 201514 us - 1483.767877 fps
+
+Main: 299 frames in 207776 us - 1439.049746 fps
+
+Main: 299 frames in 210914 us - 1417.639417 fps
+
+Main: 299 frames in 203698 us - 1467.859282 fps
+
+Main: 299 frames in 198192 us - 1508.638088 fps
+
+Main: 299 frames in 201698 us - 1482.414303 fps
+
+Main: 299 frames in 198083 us - 1509.468253 fps
+
+Main: 299 frames in 200110 us - 1494.178202 fps
+
+Main: 299 frames in 199261 us - 1500.544512 fps
+
+Main: 299 frames in 199010 us - 1502.437063 fps
+
+Main: 299 frames in 198974 us - 1502.708897 fps
+
+Main: 299 frames in 197645 us - 1512.813378 fps
+
+Main: 299 frames in 192051 us - 1556.878121 fps
+
+Main: 299 frames in 196330 us - 1522.946060 fps
+
+Main: 299 frames in 196719 us - 1519.934526 fps
+
+Main: 299 frames in 197247 us - 1515.865894 fps
+
+Main: 299 frames in 201848 us - 1481.312671 fps
+
+Main: 299 frames in 199245 us - 1500.665010 fps
+
+Main: 299 frames in 194315 us - 1538.738646 fps
+
+Main: 299 frames in 198639 us - 1505.243180 fps
+
+Main: 299 frames in 196579 us - 1521.016996 fps
+
+Main: 299 frames in 202607 us - 1475.763424 fps
+
+Main: 299 frames in 195039 us - 1533.026728 fps
+
+Main: 299 frames in 198690 us - 1504.856812 fps
+
+Main: 299 frames in 198001 us - 1510.093383 fps
+
+Main: 299 frames in 198274 us - 1508.014162 fps
+
+Main: 299 frames in 198093 us - 1509.392053 fps
+
+Main: 299 frames in 198868 us - 1503.509866 fps
+
+Main: 299 frames in 200964 us - 1487.828666 fps
+
+Main: 299 frames in 193529 us - 1544.988090 fps
+
+Main: 299 frames in 200966 us - 1487.813859 fps
+
+Main: 299 frames in 200773 us - 1489.244072 fps
+
+Main: 299 frames in 200591 us - 1490.595291 fps
+
+Main: 299 frames in 199752 us - 1496.856102 fps
+
+Main: 299 frames in 196164 us - 1524.234824 fps
+
+Main: 299 frames in 198414 us - 1506.950114 fps
+
+Main: 299 frames in 199050 us - 1502.135142 fps
+
+Main: 299 frames in 196446 us - 1522.046771 fps
+
+Main: 299 frames in 200042 us - 1494.686116 fps
+
+Main: 299 frames in 197558 us - 1513.479586 fps
+
+Main: 299 frames in 198445 us - 1506.714707 fps
+
+Main: 299 frames in 197656 us - 1512.729186 fps
+
+Main: 299 frames in 196657 us - 1520.413715 fps
+
+Main: 299 frames in 198040 us - 1509.796001 fps
+
+Main: 299 frames in 198687 us - 1504.879534 fps
+
+Main: 299 frames in 196706 us - 1520.034976 fps
+
+Main: 299 frames in 198420 us - 1506.904546 fps
+
+Main: 299 frames in 199101 us - 1501.750368 fps
+
+Main: 299 frames in 198790 us - 1504.099804 fps
+
+Main: 299 frames in 201361 us - 1484.895288 fps
+
+Main: 299 frames in 197312 us - 1515.366526 fps
+
+Main: 299 frames in 195537 us - 1529.122366 fps
+
+Main: 299 frames in 202607 us - 1475.763424 fps
+
+Main: 299 frames in 198475 us - 1506.486963 fps
+
+Main: 299 frames in 196238 us - 1523.660045 fps
+
+Main: 299 frames in 197465 us - 1514.192389 fps
+
+Main: 299 frames in 196889 us - 1518.622168 fps
+
+Main: 299 frames in 201217 us - 1485.957946 fps
+
+Main: 299 frames in 201405 us - 1484.570890 fps
+
+Main: 299 frames in 196962 us - 1518.059321 fps
+
+Main: 299 frames in 199483 us - 1498.874591 fps
+
+Main: 299 frames in 200410 us - 1491.941520 fps
+
+Main: 299 frames in 197199 us - 1516.234869 fps
+
+Main: 299 frames in 196417 us - 1522.271494 fps
+
+Main: 299 frames in 197175 us - 1516.419424 fps
+
+Main: 299 frames in 197280 us - 1515.612328 fps
+
+Main: 299 frames in 197118 us - 1516.857923 fps
+
+Main: 299 frames in 196973 us - 1517.974545 fps
+
+Main: 299 frames in 197112 us - 1516.904095 fps
+
+Main: 299 frames in 197863 us - 1511.146601 fps
+
+Main: 299 frames in 196006 us - 1525.463506 fps
+
+Main: 299 frames in 198265 us - 1508.082617 fps
+
+Main: 299 frames in 200642 us - 1490.216405 fps
+
+Main: 299 frames in 201155 us - 1486.415948 fps
+
+Main: 299 frames in 197892 us - 1510.925151 fps
+
+Main: 299 frames in 198374 us - 1507.253975 fps
+
+Main: 299 frames in 200853 us - 1488.650904 fps
+
+Main: 299 frames in 198807 us - 1503.971188 fps
+
+Main: 299 frames in 200931 us - 1488.073020 fps
+
+Main: 299 frames in 196422 us - 1522.232744 fps
+
+Main: 299 frames in 199432 us - 1499.257892 fps
+
+Main: 299 frames in 199511 us - 1498.664234 fps
+
+Main: 299 frames in 201553 us - 1483.480772 fps
+
+Main: 299 frames in 200939 us - 1488.013775 fps
+
+Main: 299 frames in 190456 us - 1569.916411 fps
+
+Main: 299 frames in 187751 us - 1592.534793 fps
+
+Main: 299 frames in 196091 us - 1524.802260 fps
+
+Main: 299 frames in 199861 us - 1496.039748 fps
+
+Main: 299 frames in 197517 us - 1513.793749 fps
+
+Main: 299 frames in 198064 us - 1509.613054 fps
+
+Main: 299 frames in 196711 us - 1519.996340 fps
+
+Main: 299 frames in 198662 us - 1505.068911 fps
+
+Main: 299 frames in 202729 us - 1474.875326 fps
+
+Main: 299 frames in 198049 us - 1509.727391 fps
+
+Main: 299 frames in 198765 us - 1504.288984 fps
+
+Main: 299 frames in 197833 us - 1511.375756 fps
+
+Main: 299 frames in 198667 us - 1505.031032 fps
+
+Main: 299 frames in 201313 us - 1485.249338 fps
+
+Main: 299 frames in 198699 us - 1504.788650 fps
+
+Main: 299 frames in 201675 us - 1482.583364 fps
+
+Main: 299 frames in 197539 us - 1513.625158 fps
+
+Main: 299 frames in 198814 us - 1503.918235 fps
+
+Main: 299 frames in 202087 us - 1479.560783 fps
+
+Main: 299 frames in 197335 us - 1515.189905 fps
+
+Main: 299 frames in 196438 us - 1522.108757 fps
+
+Main: 299 frames in 186632 us - 1602.083244 fps
+
+Main: 299 frames in 187095 us - 1598.118603 fps
+
+Main: 299 frames in 199857 us - 1496.069690 fps
+
+Main: 299 frames in 195260 us - 1531.291611 fps
+
+Main: 299 frames in 203208 us - 1471.398764 fps
+
+Main: 299 frames in 195472 us - 1529.630842 fps
+
+Main: 299 frames in 198118 us - 1509.201587 fps
+
+Main: 299 frames in 197473 us - 1514.131046 fps
+
+Main: 299 frames in 200320 us - 1492.611821 fps
+
+Main: 299 frames in 201106 us - 1486.778117 fps
+
+Main: 299 frames in 200531 us - 1491.041285 fps
+
+Main: 299 frames in 200713 us - 1489.689258 fps
+
+Main: 299 frames in 202848 us - 1474.010096 fps
+
+Main: 299 frames in 202170 us - 1478.953356 fps
+
+Main: 299 frames in 195799 us - 1527.076236 fps
+
+Main: 299 frames in 201406 us - 1484.563518 fps
+
+Main: 299 frames in 199286 us - 1500.356272 fps
+
+Main: 299 frames in 197510 us - 1513.847400 fps
+
+Main: 299 frames in 200331 us - 1492.529863 fps
+
+Main: 299 frames in 197767 us - 1511.880142 fps
+
+Main: 299 frames in 197903 us - 1510.841170 fps
+
+Main: 299 frames in 203381 us - 1470.147162 fps
+
+Main: 299 frames in 194955 us - 1533.687261 fps
+
+Main: 299 frames in 194346 us - 1538.493203 fps
+
+Main: 299 frames in 198666 us - 1505.038608 fps
+
+Main: 299 frames in 198181 us - 1508.721825 fps
+
+Main: 299 frames in 200638 us - 1490.246115 fps
+
+Main: 299 frames in 199877 us - 1495.919991 fps
+
+Main: 299 frames in 196675 us - 1520.274565 fps
+
+Main: 299 frames in 200927 us - 1488.102644 fps
+
+Main: 299 frames in 199676 us - 1497.425830 fps
+
+Main: 299 frames in 196699 us - 1520.089070 fps
+
+Main: 299 frames in 194199 us - 1539.657774 fps
+
+Main: 299 frames in 198220 us - 1508.424982 fps
+
+Main: 299 frames in 201046 us - 1487.221830 fps
+
+Main: 299 frames in 200962 us - 1487.843473 fps
+
+Main: 299 frames in 201381 us - 1484.747816 fps
+
+Main: 299 frames in 201414 us - 1484.504553 fps
+
+Main: 299 frames in 198559 us - 1505.849647 fps
+
+Main: 299 frames in 197223 us - 1516.050359 fps
+
+Main: 299 frames in 197731 us - 1512.155403 fps
+
+Main: 299 frames in 198078 us - 1509.506356 fps
+
+Main: 299 frames in 197161 us - 1516.527102 fps
+
+Main: 299 frames in 198509 us - 1506.228937 fps
+
+Main: 299 frames in 199585 us - 1498.108575 fps
+
+Main: 299 frames in 199403 us - 1499.475936 fps
+
+Main: 299 frames in 197967 us - 1510.352736 fps
+
+Main: 299 frames in 197656 us - 1512.729186 fps
+
+Main: 299 frames in 199449 us - 1499.130103 fps
+
+Main: 299 frames in 196477 us - 1521.806624 fps
+
+Main: 299 frames in 196225 us - 1523.760989 fps
+
+Main: 299 frames in 196981 us - 1517.912895 fps
+
+Main: 299 frames in 198637 us - 1505.258336 fps
+
+Main: 299 frames in 203184 us - 1471.572565 fps
+
+Main: 299 frames in 198358 us - 1507.375553 fps
+
+Main: 299 frames in 197651 us - 1512.767454 fps
+
+Main: 299 frames in 198369 us - 1507.291966 fps
+
+Main: 299 frames in 197787 us - 1511.727262 fps
+
+Main: 299 frames in 198581 us - 1505.682820 fps
+
+Main: 299 frames in 198334 us - 1507.557958 fps
+
+Main: 299 frames in 197063 us - 1517.281276 fps
+
+Main: 299 frames in 199151 us - 1501.373330 fps
+
+Main: 299 frames in 199050 us - 1502.135142 fps
+
+Main: 299 frames in 201412 us - 1484.519294 fps
+
+Main: 299 frames in 200624 us - 1490.350108 fps
+
+Main: 299 frames in 202548 us - 1476.193297 fps
+
+Main: 299 frames in 199546 us - 1498.401371 fps
+
+Main: 299 frames in 199191 us - 1501.071836 fps
+
+Main: 299 frames in 197197 us - 1516.250247 fps
+
+Main: 299 frames in 198573 us - 1505.743480 fps
+
+Main: 299 frames in 200881 us - 1488.443407 fps
+
+Main: 299 frames in 199714 us - 1497.140912 fps
+
+Main: 299 frames in 199932 us - 1495.508473 fps
+
+Main: 299 frames in 200888 us - 1488.391542 fps
+
+Main: 299 frames in 196414 us - 1522.294745 fps
+
+Main: 299 frames in 200028 us - 1494.790729 fps
+
+Main: 299 frames in 200405 us - 1491.978743 fps
+
+Main: 299 frames in 196961 us - 1518.067028 fps
+
+Main: 299 frames in 199197 us - 1501.026622 fps
+
+Main: 299 frames in 197544 us - 1513.586846 fps
+
+Main: 299 frames in 198268 us - 1508.059798 fps
+
+Main: 299 frames in 198387 us - 1507.155207 fps
+
+Main: 299 frames in 196632 us - 1520.607022 fps
+
+Main: 299 frames in 203414 us - 1469.908659 fps
+
+Main: 299 frames in 191758 us - 1559.256980 fps
+
+Main: 299 frames in 201799 us - 1481.672357 fps
+
+Main: 299 frames in 198676 us - 1504.962854 fps
+
+Main: 299 frames in 199759 us - 1496.803648 fps
+
+Main: 299 frames in 197436 us - 1514.414798 fps
+
+Main: 299 frames in 204967 us - 1458.771412 fps
+
+Main: 299 frames in 200954 us - 1487.902704 fps
+
+Main: 299 frames in 194925 us - 1533.923304 fps
+
+Main: 299 frames in 197321 us - 1515.297409 fps
+
+Main: 299 frames in 196901 us - 1518.529616 fps
+
+Main: 299 frames in 204349 us - 1463.183084 fps
+
+Main: 299 frames in 200679 us - 1489.941648 fps
+
+Main: 299 frames in 198821 us - 1503.865286 fps
+
+Main: 299 frames in 201247 us - 1485.736433 fps
+
+Main: 299 frames in 200284 us - 1492.880110 fps
+
+Main: 299 frames in 201809 us - 1481.598938 fps
+
+Main: 299 frames in 200441 us - 1491.710778 fps
+
+Main: 299 frames in 198466 us - 1506.555279 fps
+
+Main: 299 frames in 201573 us - 1483.333581 fps
+
+Main: 299 frames in 201978 us - 1480.359247 fps
+
+Main: 299 frames in 199445 us - 1499.160169 fps
+
+Main: 299 frames in 192950 us - 1549.624255 fps
+
+Main: 299 frames in 196227 us - 1523.745458 fps
+
+Main: 299 frames in 200637 us - 1490.253542 fps
+
+Main: 299 frames in 200889 us - 1488.384133 fps
+
+Main: 299 frames in 200437 us - 1491.740547 fps
+
+Main: 299 frames in 198022 us - 1509.933240 fps
+
+Main: 299 frames in 196257 us - 1523.512537 fps
+
+Main: 299 frames in 198651 us - 1505.152252 fps
+
+Main: 299 frames in 202291 us - 1478.068723 fps
+
+Main: 299 frames in 197667 us - 1512.645004 fps
+
+Main: 299 frames in 192198 us - 1555.687364 fps
+
+Main: 299 frames in 197565 us - 1513.425961 fps
+
+Main: 299 frames in 199149 us - 1501.388408 fps
+
+Main: 299 frames in 201029 us - 1487.347597 fps
+
+Main: 299 frames in 199339 us - 1499.957359 fps
+
+Main: 299 frames in 192869 us - 1550.275057 fps
+
+Main: 299 frames in 196886 us - 1518.645307 fps
+
+Main: 299 frames in 195937 us - 1526.000704 fps
+
+Main: 299 frames in 196812 us - 1519.216308 fps
+
+Main: 299 frames in 202888 us - 1473.719491 fps
+
+Main: 299 frames in 198914 us - 1503.162171 fps
+
+Main: 299 frames in 197319 us - 1515.312768 fps
+
+Main: 299 frames in 200239 us - 1493.215607 fps
+
+Main: 299 frames in 195554 us - 1528.989435 fps
+
+Main: 299 frames in 198492 us - 1506.357939 fps
+
+Main: 299 frames in 201136 us - 1486.556360 fps
+
+Main: 299 frames in 196559 us - 1521.171760 fps
+
+Main: 299 frames in 200513 us - 1491.175136 fps
+
+Main: 299 frames in 200387 us - 1492.112762 fps
+
+Main: 299 frames in 199521 us - 1498.589121 fps
+
+Main: 299 frames in 199624 us - 1497.815894 fps
+
+Main: 299 frames in 197040 us - 1517.458384 fps
+
+Main: 299 frames in 199672 us - 1497.455828 fps
+
+Main: 299 frames in 200698 us - 1489.800596 fps
+
+Main: 299 frames in 203217 us - 1471.333599 fps
+
+Main: 299 frames in 207474 us - 1441.144433 fps
+
+Main: 299 frames in 198491 us - 1506.365528 fps
+
+Main: 299 frames in 196848 us - 1518.938470 fps
+
+Main: 299 frames in 198967 us - 1502.761765 fps
+
+Main: 299 frames in 198075 us - 1509.529219 fps
+
+Main: 299 frames in 203002 us - 1472.891893 fps
+
+Main: 299 frames in 200467 us - 1491.517307 fps
+
+Main: 299 frames in 199425 us - 1499.310518 fps
+
+Main: 299 frames in 212500 us - 1407.058824 fps
+
+Main: 299 frames in 202165 us - 1478.989934 fps
+
+Main: 299 frames in 201385 us - 1484.718326 fps
+
+Main: 299 frames in 196922 us - 1518.367679 fps
+
+Main: 299 frames in 197279 us - 1515.620010 fps
+
+Main: 299 frames in 195656 us - 1528.192338 fps
+
+Main: 299 frames in 201136 us - 1486.556360 fps
+
+Main: 299 frames in 196774 us - 1519.509691 fps
+
+Main: 299 frames in 196632 us - 1520.607022 fps
+
+Main: 299 frames in 198605 us - 1505.500869 fps
+
+Main: 299 frames in 198446 us - 1506.707114 fps
+
+Main: 299 frames in 197901 us - 1510.856438 fps
+
+Main: 299 frames in 197457 us - 1514.253736 fps
+
+Main: 299 frames in 197522 us - 1513.755430 fps
+
+Main: 299 frames in 198154 us - 1508.927400 fps
+
+Main: 299 frames in 197242 us - 1515.904321 fps
+
+Main: 299 frames in 196617 us - 1520.723030 fps
+
+Main: 299 frames in 200304 us - 1492.731049 fps
+
+Main: 299 frames in 196225 us - 1523.760989 fps
+
+Main: 299 frames in 196649 us - 1520.475568 fps
+
+Main: 299 frames in 197916 us - 1510.741931 fps
+
+Main: 299 frames in 203513 us - 1469.193614 fps
+
+Main: 299 frames in 210976 us - 1417.222812 fps
+
+Main: 299 frames in 196786 us - 1519.417032 fps
+
+Main: 299 frames in 197369 us - 1514.928890 fps
+
+Main: 299 frames in 195576 us - 1528.817442 fps
+
+Main: 299 frames in 198981 us - 1502.656032 fps
+
+Main: 299 frames in 203419 us - 1469.872529 fps
+
+Main: 299 frames in 199387 us - 1499.596263 fps
+
+Main: 299 frames in 199618 us - 1497.860914 fps
+
+Main: 299 frames in 198085 us - 1509.453013 fps
+
+Main: 299 frames in 198433 us - 1506.805824 fps
+
+Main: 299 frames in 193517 us - 1545.083894 fps
+
+Main: 299 frames in 197861 us - 1511.161876 fps
+
+Main: 299 frames in 196858 us - 1518.861311 fps
+
+Main: 299 frames in 197298 us - 1515.474054 fps
+
+Main: 299 frames in 196509 us - 1521.558809 fps
+
+Main: 299 frames in 198718 us - 1504.644773 fps
+
+Main: 299 frames in 198895 us - 1503.305764 fps
+
+Main: 299 frames in 198496 us - 1506.327583 fps
+
+Main: 299 frames in 196624 us - 1520.668891 fps
+
+Main: 299 frames in 196746 us - 1519.725941 fps
+
+Main: 299 frames in 195785 us - 1527.185433 fps
+
+Main: 299 frames in 199753 us - 1496.848608 fps
+
+Main: 299 frames in 196602 us - 1520.839056 fps
+
+Main: 299 frames in 196255 us - 1523.528063 fps
+
+Main: 299 frames in 197512 us - 1513.832071 fps
+
+Main: 299 frames in 198761 us - 1504.319258 fps
+
+Main: 299 frames in 196873 us - 1518.745587 fps
+
+Main: 299 frames in 197793 us - 1511.681404 fps
+
+Main: 299 frames in 198762 us - 1504.311689 fps
+
+Main: 299 frames in 198194 us - 1508.622864 fps
+
+Main: 299 frames in 196786 us - 1519.417032 fps
+
+Main: 299 frames in 198434 us - 1506.798230 fps
+
+Main: 299 frames in 195963 us - 1525.798237 fps
+
+Main: 299 frames in 196317 us - 1523.046909 fps
+
+Main: 299 frames in 194615 us - 1536.366673 fps
+
+Main: 299 frames in 198486 us - 1506.403474 fps
+
+Main: 299 frames in 200211 us - 1493.424437 fps
+
+Main: 299 frames in 198576 us - 1505.720732 fps
+
+Main: 299 frames in 198395 us - 1507.094433 fps
+
+Main: 299 frames in 200435 us - 1491.755432 fps
+
+Main: 299 frames in 197664 us - 1512.667962 fps
+
+Main: 299 frames in 200099 us - 1494.260341 fps
+
+Main: 299 frames in 201228 us - 1485.876717 fps
+
+Main: 299 frames in 194959 us - 1533.655794 fps
+
+Main: 299 frames in 200100 us - 1494.252874 fps
+
+Main: 299 frames in 196963 us - 1518.051614 fps
+
+Main: 299 frames in 193224 us - 1547.426821 fps
+
+Main: 299 frames in 195792 us - 1527.130833 fps
+
+Main: 299 frames in 201957 us - 1480.513179 fps
+
+Main: 299 frames in 198405 us - 1507.018472 fps
+
+Main: 299 frames in 198354 us - 1507.405951 fps
+
+Main: 299 frames in 200025 us - 1494.813148 fps
+
+Main: 299 frames in 195249 us - 1531.377882 fps
+
+Main: 299 frames in 195828 us - 1526.850093 fps
+
+Main: 299 frames in 202810 us - 1474.286278 fps
+
+Main: 299 frames in 209860 us - 1424.759363 fps
+
+Main: 299 frames in 197655 us - 1512.736839 fps
+
+Main: 299 frames in 198925 us - 1503.079050 fps
+
+Main: 299 frames in 198685 us - 1504.894683 fps
+
+Main: 299 frames in 194062 us - 1540.744710 fps
+
+Main: 299 frames in 197420 us - 1514.537534 fps
+
+Main: 299 frames in 201018 us - 1487.428986 fps
+
+Main: 299 frames in 197828 us - 1511.413956 fps
+
+Main: 299 frames in 194268 us - 1539.110919 fps
+
+Main: 299 frames in 196304 us - 1523.147771 fps
+
+Main: 299 frames in 197407 us - 1514.637272 fps
+
+Main: 299 frames in 196959 us - 1518.082444 fps
+
+Main: 299 frames in 199306 us - 1500.205714 fps
+
+Main: 299 frames in 200087 us - 1494.349958 fps
+
+Main: 299 frames in 201758 us - 1481.973453 fps
+
+Main: 299 frames in 197318 us - 1515.320447 fps
+
+Main: 299 frames in 200057 us - 1494.574046 fps
+
+Main: 299 frames in 198554 us - 1505.887567 fps
+
+Main: 299 frames in 196618 us - 1520.715296 fps
+
+Main: 299 frames in 196039 us - 1525.206719 fps
+
+Main: 299 frames in 199488 us - 1498.837023 fps
+
+Main: 299 frames in 198171 us - 1508.797957 fps
+
+Main: 299 frames in 196983 us - 1517.897484 fps
+
+Main: 299 frames in 199118 us - 1501.622154 fps
+
+Main: 299 frames in 197128 us - 1516.780975 fps
+
+Main: 299 frames in 196180 us - 1524.110511 fps
+
+Main: 299 frames in 199302 us - 1500.235823 fps
+
+Main: 299 frames in 199230 us - 1500.777995 fps
+
+Main: 299 frames in 199880 us - 1495.897539 fps
+
+Main: 299 frames in 202457 us - 1476.856814 fps
+
+Main: 299 frames in 198302 us - 1507.801232 fps
+
+Main: 299 frames in 197774 us - 1511.826630 fps
+
+Main: 299 frames in 200752 us - 1489.399857 fps
+
+Main: 299 frames in 198678 us - 1504.947704 fps
+
+Main: 299 frames in 199960 us - 1495.299060 fps
+
+Main: 299 frames in 197412 us - 1514.598910 fps
+
+Main: 299 frames in 199692 us - 1497.305851 fps
+
+Main: 299 frames in 201438 us - 1484.327684 fps
+
+Main: 299 frames in 198689 us - 1504.864386 fps
+
+Main: 299 frames in 200745 us - 1489.451792 fps
+
+Main: 299 frames in 196935 us - 1518.267449 fps
+
+Main: 299 frames in 198722 us - 1504.614487 fps
+
+Main: 299 frames in 197333 us - 1515.205262 fps
+
+Main: 299 frames in 197811 us - 1511.543847 fps
+
+Main: 299 frames in 195365 us - 1530.468610 fps
+
+Main: 299 frames in 198417 us - 1506.927330 fps
+
+Main: 299 frames in 193922 us - 1541.857035 fps
+
+Main: 299 frames in 197220 us - 1516.073421 fps
+
+Main: 299 frames in 197048 us - 1517.396776 fps
+
+Main: 299 frames in 197138 us - 1516.704035 fps
+
+Main: 299 frames in 205242 us - 1456.816831 fps
+
+Main: 299 frames in 198963 us - 1502.791976 fps
+
+Main: 299 frames in 196695 us - 1520.119983 fps
+
+Main: 299 frames in 198097 us - 1509.361575 fps
+
+Main: 299 frames in 195734 us - 1527.583353 fps
+
+Main: 299 frames in 202516 us - 1476.426554 fps
+
+Main: 299 frames in 196910 us - 1518.460210 fps
+
+Main: 299 frames in 192583 us - 1552.577330 fps
+
+Main: 299 frames in 197058 us - 1517.319774 fps
+
+Main: 299 frames in 202934 us - 1473.385436 fps
+
+Main: 299 frames in 200413 us - 1491.919187 fps
+
+Main: 299 frames in 199447 us - 1499.145136 fps
+
+Main: 299 frames in 197165 us - 1516.496336 fps
+
+Main: 299 frames in 200279 us - 1492.917380 fps
+
+Main: 299 frames in 199155 us - 1501.343175 fps
+
+Main: 299 frames in 199130 us - 1501.531663 fps
+
+Main: 299 frames in 207606 us - 1440.228124 fps
+
+Main: 299 frames in 198110 us - 1509.262531 fps
+
+Main: 299 frames in 194484 us - 1537.401534 fps
+
+Main: 299 frames in 190367 us - 1570.650375 fps
+
+Main: 299 frames in 199822 us - 1496.331735 fps
+
+Main: 299 frames in 198092 us - 1509.399673 fps
+
+Main: 299 frames in 193395 us - 1546.058585 fps
+
+Main: 299 frames in 199217 us - 1500.875929 fps
+
+Main: 299 frames in 201184 us - 1486.201686 fps
+
+Main: 299 frames in 196662 us - 1520.375060 fps
+
+Main: 299 frames in 199270 us - 1500.476740 fps
+
+Main: 299 frames in 198832 us - 1503.782087 fps
+
+Main: 299 frames in 198661 us - 1505.076487 fps
+
+Main: 299 frames in 199034 us - 1502.255896 fps
+
+Main: 299 frames in 200606 us - 1490.483834 fps
+
+Main: 299 frames in 198092 us - 1509.399673 fps
+
+Main: 299 frames in 198817 us - 1503.895542 fps
+
+Main: 299 frames in 200589 us - 1490.610153 fps
+
+Main: 299 frames in 195991 us - 1525.580256 fps
+
+Main: 299 frames in 200557 us - 1490.847988 fps
+
+Main: 299 frames in 197221 us - 1516.065733 fps
+
+Main: 299 frames in 198931 us - 1503.033715 fps
+
+Main: 299 frames in 202574 us - 1476.003831 fps
+
+Main: 299 frames in 201499 us - 1483.878332 fps
+
+Main: 299 frames in 199319 us - 1500.107867 fps
+
+Main: 299 frames in 197031 us - 1517.527699 fps
+
+Main: 299 frames in 197231 us - 1515.988866 fps
+
+Main: 299 frames in 198870 us - 1503.494745 fps
+
+Main: 299 frames in 196946 us - 1518.182649 fps
+
+Main: 299 frames in 197748 us - 1512.025406 fps
+
+Main: 299 frames in 197432 us - 1514.445480 fps
+
+Main: 299 frames in 197730 us - 1512.163051 fps
+
+Main: 299 frames in 199495 us - 1498.784431 fps
+
+Main: 299 frames in 196027 us - 1525.300086 fps
+
+Main: 299 frames in 199418 us - 1499.363147 fps
+
+Main: 299 frames in 201433 us - 1484.364528 fps
+
+Main: 299 frames in 199319 us - 1500.107867 fps
+
+Main: 299 frames in 202416 us - 1477.155956 fps
+
+Main: 299 frames in 197669 us - 1512.629699 fps
+
+Main: 299 frames in 196338 us - 1522.884006 fps
+
+Main: 299 frames in 198691 us - 1504.849238 fps
+
+Main: 299 frames in 201911 us - 1480.850474 fps
+
+Main: 299 frames in 201419 us - 1484.467702 fps
+
+Main: 299 frames in 198351 us - 1507.428750 fps
+
+Main: 299 frames in 198189 us - 1508.660925 fps
+
+Main: 299 frames in 198826 us - 1503.827467 fps
+
+Main: 299 frames in 196031 us - 1525.268963 fps
+
+Main: 299 frames in 199156 us - 1501.335636 fps
+
+Main: 299 frames in 201784 us - 1481.782500 fps
+
+Main: 299 frames in 197723 us - 1512.216586 fps
+
+Main: 299 frames in 199523 us - 1498.574099 fps
+
+Main: 299 frames in 197124 us - 1516.811753 fps
+
+Main: 299 frames in 191431 us - 1561.920483 fps
+
+Main: 299 frames in 196858 us - 1518.861311 fps
+
+Main: 299 frames in 197670 us - 1512.622047 fps
+
+Main: 299 frames in 199776 us - 1496.676277 fps
+
+Main: 299 frames in 199759 us - 1496.803648 fps
+
+Main: 299 frames in 198044 us - 1509.765507 fps
+
+Main: 299 frames in 200341 us - 1492.455364 fps
+
+Main: 299 frames in 199832 us - 1496.256856 fps
+
+Main: 299 frames in 195542 us - 1529.083266 fps
+
+Main: 299 frames in 196440 us - 1522.093260 fps
+
+Main: 299 frames in 199840 us - 1496.196958 fps
+
+Main: 299 frames in 198607 us - 1505.485708 fps
+
+Main: 299 frames in 198919 us - 1503.124387 fps
+
+Main: 299 frames in 197888 us - 1510.955692 fps
+
+Main: 299 frames in 198439 us - 1506.760264 fps
+
+Main: 299 frames in 197508 us - 1513.862730 fps
+
+Main: 299 frames in 198786 us - 1504.130070 fps
+
+Main: 299 frames in 196760 us - 1519.617808 fps
+
+Main: 299 frames in 200323 us - 1492.589468 fps
+
+Main: 299 frames in 194856 us - 1534.466478 fps
+
+Main: 299 frames in 200003 us - 1494.977575 fps
+
+Main: 299 frames in 197958 us - 1510.421403 fps
+
+Main: 299 frames in 196868 us - 1518.784160 fps
+
+Main: 299 frames in 193373 us - 1546.234479 fps
+
+Main: 299 frames in 191020 us - 1565.281122 fps
+
+Main: 299 frames in 196848 us - 1518.938470 fps
+
+Main: 299 frames in 195513 us - 1529.310071 fps
+
+Main: 299 frames in 198639 us - 1505.243180 fps
+
+Main: 299 frames in 196293 us - 1523.233126 fps
+
+Main: 299 frames in 198586 us - 1505.644910 fps
+
+Main: 299 frames in 198861 us - 1503.562790 fps
+
+Main: 299 frames in 201034 us - 1487.310604 fps
+
+Main: 299 frames in 196975 us - 1517.959132 fps
+
+Main: 299 frames in 196949 us - 1518.159524 fps
+
+Main: 299 frames in 197501 us - 1513.916385 fps
+
+Main: 299 frames in 201052 us - 1487.177447 fps
+
+Main: 299 frames in 200622 us - 1490.364965 fps
+
+Main: 299 frames in 202094 us - 1479.509535 fps
+
+Main: 299 frames in 202197 us - 1478.755867 fps
+
+Main: 299 frames in 201748 us - 1482.046910 fps
+
+Main: 299 frames in 200809 us - 1488.977088 fps
+
+Main: 299 frames in 199707 us - 1497.193388 fps
+
+Main: 299 frames in 194723 us - 1535.514551 fps
+
+Main: 299 frames in 198952 us - 1502.875065 fps
+
+Main: 299 frames in 196382 us - 1522.542799 fps
+
+Main: 299 frames in 200545 us - 1490.937196 fps
+
+Main: 299 frames in 200187 us - 1493.603481 fps
+
+Main: 299 frames in 201153 us - 1486.430727 fps
+
+Main: 299 frames in 200088 us - 1494.342489 fps
+
+Main: 299 frames in 199899 us - 1495.755356 fps
+
+Main: 299 frames in 196724 us - 1519.895895 fps
+
+Main: 299 frames in 196969 us - 1518.005371 fps
+
+Main: 299 frames in 203569 us - 1468.789452 fps
+
+Main: 299 frames in 197697 us - 1512.415464 fps
+
+Main: 299 frames in 198056 us - 1509.674032 fps
+
+Main: 299 frames in 199456 us - 1499.077491 fps
+
+Main: 299 frames in 197378 us - 1514.859812 fps
+
+Main: 299 frames in 199407 us - 1499.445857 fps
+
+Main: 299 frames in 195515 us - 1529.294428 fps
+
+Main: 299 frames in 196737 us - 1519.795463 fps
+
+Main: 299 frames in 196890 us - 1518.614455 fps
+
+Main: 299 frames in 190077 us - 1573.046713 fps
+
+Main: 299 frames in 193458 us - 1545.555108 fps
+
+Main: 299 frames in 197292 us - 1515.520143 fps
+
+Main: 299 frames in 189935 us - 1574.222760 fps
+
+Main: 299 frames in 185222 us - 1614.279081 fps
+
+Main: 299 frames in 187700 us - 1592.967501 fps
+
+Main: 299 frames in 195741 us - 1527.528724 fps
+
+Main: 299 frames in 199977 us - 1495.171945 fps
+
+Main: 299 frames in 196580 us - 1521.009258 fps
+
+Main: 299 frames in 197851 us - 1511.238255 fps
+
+Main: 299 frames in 200642 us - 1490.216405 fps
+
+Main: 299 frames in 200730 us - 1489.563095 fps
+
+Main: 299 frames in 202773 us - 1474.555291 fps
+
+Main: 299 frames in 197644 us - 1512.821032 fps
+
+Main: 299 frames in 197263 us - 1515.742942 fps
+
+Main: 299 frames in 197338 us - 1515.166871 fps
+
+Main: 299 frames in 194719 us - 1535.546095 fps
+
+Main: 299 frames in 200690 us - 1489.859983 fps
+
+Main: 299 frames in 198271 us - 1508.036980 fps
+
+Main: 299 frames in 197866 us - 1511.123690 fps
+
+Main: 299 frames in 197744 us - 1512.055992 fps
+
+Main: 299 frames in 200673 us - 1489.986196 fps
+
+Main: 299 frames in 195923 us - 1526.109747 fps
+
+Main: 299 frames in 196924 us - 1518.352258 fps
+
+Main: 299 frames in 196507 us - 1521.574295 fps
+
+Main: 299 frames in 201489 us - 1483.951978 fps
+
+Main: 299 frames in 197781 us - 1511.773123 fps
+
+Main: 299 frames in 198736 us - 1504.508494 fps
+
+Main: 299 frames in 198039 us - 1509.803625 fps
+
+Main: 299 frames in 201493 us - 1483.922518 fps
+
+Main: 299 frames in 201870 us - 1481.151236 fps
+
+Main: 299 frames in 197796 us - 1511.658476 fps
+
+Main: 299 frames in 192449 us - 1553.658372 fps
+
+Main: 299 frames in 201514 us - 1483.767877 fps
+
+Main: 299 frames in 199982 us - 1495.134562 fps
+
+Main: 299 frames in 200306 us - 1492.716144 fps
+
+Main: 299 frames in 196813 us - 1519.208589 fps
+
+Main: 299 frames in 199876 us - 1495.927475 fps
+
+Main: 299 frames in 199816 us - 1496.376667 fps
+
+Main: 299 frames in 197782 us - 1511.765479 fps
+
+Main: 299 frames in 196878 us - 1518.707017 fps
+
+Main: 299 frames in 196425 us - 1522.209495 fps
+
+Main: 299 frames in 198406 us - 1507.010877 fps
+
+Main: 299 frames in 195848 us - 1526.694171 fps
+
+Main: 299 frames in 195289 us - 1531.064218 fps
+
+Main: 299 frames in 196149 us - 1524.351386 fps
+
+Main: 299 frames in 200642 us - 1490.216405 fps
+
+Main: 299 frames in 200289 us - 1492.842842 fps
+
+Main: 299 frames in 196210 us - 1523.877478 fps
+
+Main: 299 frames in 196220 us - 1523.799817 fps
+
+Main: 299 frames in 196848 us - 1518.938470 fps
+
+Main: 299 frames in 200362 us - 1492.298939 fps
+
+Main: 299 frames in 200325 us - 1492.574566 fps
+
+Main: 299 frames in 198987 us - 1502.610723 fps
+
+Main: 299 frames in 198798 us - 1504.039276 fps
+
+Main: 299 frames in 197269 us - 1515.696840 fps
+
+Main: 299 frames in 198001 us - 1510.093383 fps
+
+Main: 299 frames in 196196 us - 1523.986218 fps
+
+Main: 299 frames in 196596 us - 1520.885471 fps
+
+Main: 299 frames in 196112 us - 1524.638982 fps
+
+Main: 299 frames in 196330 us - 1522.946060 fps
+
+Main: 299 frames in 197769 us - 1511.864852 fps
+
+Main: 299 frames in 193753 us - 1543.201912 fps
+
+Main: 299 frames in 194047 us - 1540.863811 fps
+
+Main: 299 frames in 197523 us - 1513.747766 fps
+
+Main: 299 frames in 194798 us - 1534.923357 fps
+
+Main: 299 frames in 200182 us - 1493.640787 fps
+
+Main: 299 frames in 198374 us - 1507.253975 fps
+
+Main: 299 frames in 196175 us - 1524.149356 fps
+
+Main: 299 frames in 200302 us - 1492.745954 fps
+
+Main: 299 frames in 199464 us - 1499.017367 fps
+
+Main: 299 frames in 199789 us - 1496.578891 fps
+
+Main: 299 frames in 199481 us - 1498.889619 fps
+
+Main: 299 frames in 201739 us - 1482.113027 fps
+
+Main: 299 frames in 197118 us - 1516.857923 fps
+
+Main: 299 frames in 197475 us - 1514.115711 fps
+
+Main: 299 frames in 200283 us - 1492.887564 fps
+
+Main: 299 frames in 197647 us - 1512.798069 fps
+
+Main: 299 frames in 199719 us - 1497.103430 fps
+
+Main: 299 frames in 193356 us - 1546.370426 fps
+
+Main: 299 frames in 200915 us - 1488.191524 fps
+
+Main: 299 frames in 200997 us - 1487.584392 fps
+
+Main: 299 frames in 197639 us - 1512.859304 fps
+
+Main: 299 frames in 200070 us - 1494.476933 fps
+
+Main: 299 frames in 199106 us - 1501.712656 fps
+
+Main: 299 frames in 202166 us - 1478.982618 fps
+
+Main: 299 frames in 202113 us - 1479.370451 fps
+
+Main: 299 frames in 201109 us - 1486.755938 fps
+
+Main: 299 frames in 197552 us - 1513.525553 fps
+
+Main: 299 frames in 196206 us - 1523.908545 fps
+
+Main: 299 frames in 198027 us - 1509.895115 fps
+
+Main: 299 frames in 196388 us - 1522.496283 fps
+
+Main: 299 frames in 197539 us - 1513.625158 fps
+
+Main: 299 frames in 200448 us - 1491.658685 fps
+
+Main: 299 frames in 196512 us - 1521.535581 fps
+
+Main: 299 frames in 198729 us - 1504.561488 fps
+
+Main: 299 frames in 198404 us - 1507.026068 fps
+
+Main: 299 frames in 198659 us - 1505.091639 fps
+
+Main: 299 frames in 200368 us - 1492.254252 fps
+
+Main: 299 frames in 198544 us - 1505.963414 fps
+
+Main: 299 frames in 200772 us - 1489.251489 fps
+
+Main: 299 frames in 201013 us - 1487.465985 fps
+
+Main: 299 frames in 196193 us - 1524.009521 fps
+
+Main: 299 frames in 200181 us - 1493.648248 fps
+
+Main: 299 frames in 198464 us - 1506.570461 fps
+
+Main: 299 frames in 197096 us - 1517.027235 fps
+
+Main: 299 frames in 197467 us - 1514.177052 fps
+
+Main: 299 frames in 195636 us - 1528.348566 fps
+
+Main: 299 frames in 196225 us - 1523.760989 fps
+
+Main: 299 frames in 191511 us - 1561.268021 fps
+
+Main: 299 frames in 195674 us - 1528.051760 fps
+
+Main: 299 frames in 201311 us - 1485.264094 fps
+
+Main: 299 frames in 197921 us - 1510.703766 fps
+
+Main: 299 frames in 195249 us - 1531.377882 fps
+
+Main: 299 frames in 199268 us - 1500.491800 fps
+
+Main: 299 frames in 198335 us - 1507.550357 fps
+
+Main: 299 frames in 196285 us - 1523.295208 fps
+
+Main: 299 frames in 195470 us - 1529.646493 fps
+
+Main: 299 frames in 198616 us - 1505.417489 fps
+
+Main: 299 frames in 200519 us - 1491.130516 fps
+
+Main: 299 frames in 200361 us - 1492.306387 fps
+
+Main: 299 frames in 201479 us - 1484.025630 fps
+
+Main: 299 frames in 200268 us - 1492.999381 fps
+
+Main: 299 frames in 198335 us - 1507.550357 fps
+
+Main: 299 frames in 197129 us - 1516.773280 fps
+
+Main: 299 frames in 197100 us - 1516.996449 fps
+
+Main: 299 frames in 196835 us - 1519.038789 fps
+
+Main: 299 frames in 200574 us - 1490.721629 fps
+
+Main: 299 frames in 201426 us - 1484.416113 fps
+
+Main: 299 frames in 201474 us - 1484.062460 fps
+
+Main: 299 frames in 198734 us - 1504.523635 fps
+
+Main: 299 frames in 195120 us - 1532.390324 fps
+
+Main: 299 frames in 195217 us - 1531.628905 fps
+
+Main: 299 frames in 197642 us - 1512.836340 fps
+
+Main: 299 frames in 198331 us - 1507.580761 fps
+
+Main: 299 frames in 198713 us - 1504.682633 fps
+
+Main: 299 frames in 199816 us - 1496.376667 fps
+
+Main: 299 frames in 201833 us - 1481.422760 fps
+
+Main: 299 frames in 201218 us - 1485.950561 fps
+
+Main: 299 frames in 199440 us - 1499.197754 fps
+
+Main: 299 frames in 196972 us - 1517.982251 fps
+
+Main: 299 frames in 197279 us - 1515.620010 fps
+
+Main: 299 frames in 196401 us - 1522.395507 fps
+
+Main: 299 frames in 196472 us - 1521.845352 fps
+
+Main: 299 frames in 200929 us - 1488.087832 fps
+
+Main: 299 frames in 195999 us - 1525.517987 fps
+
+Main: 299 frames in 191459 us - 1561.692059 fps
+
+Main: 299 frames in 198153 us - 1508.935015 fps
+
+Main: 299 frames in 199355 us - 1499.836974 fps
+
+Main: 299 frames in 196929 us - 1518.313707 fps
+
+Main: 299 frames in 201672 us - 1482.605419 fps
+
+Main: 299 frames in 199193 us - 1501.056764 fps
+
+Main: 299 frames in 197406 us - 1514.644945 fps
+
+Main: 299 frames in 199935 us - 1495.486033 fps
+
+Main: 299 frames in 196736 us - 1519.803188 fps
+
+Main: 299 frames in 196288 us - 1523.271927 fps
+
+Main: 299 frames in 197359 us - 1515.005650 fps
+
+Main: 299 frames in 198949 us - 1502.897728 fps
+
+Main: 299 frames in 196001 us - 1525.502421 fps
+
+Main: 299 frames in 196421 us - 1522.240494 fps
+
+Main: 299 frames in 197956 us - 1510.436663 fps
+
+Main: 299 frames in 197209 us - 1516.157985 fps
+
+Main: 299 frames in 201619 us - 1482.995154 fps
+
+Main: 299 frames in 198392 us - 1507.117222 fps
+
+Main: 299 frames in 197618 us - 1513.020069 fps
+
+Main: 299 frames in 192074 us - 1556.691692 fps
+
+Main: 299 frames in 197725 us - 1512.201290 fps
+
+Main: 299 frames in 196648 us - 1520.483300 fps
+
+Main: 299 frames in 198724 us - 1504.599344 fps
+
+Main: 299 frames in 197592 us - 1513.219159 fps
+
+Main: 299 frames in 190988 us - 1565.543385 fps
+
+Main: 299 frames in 195834 us - 1526.803313 fps
+
+Main: 299 frames in 196895 us - 1518.575891 fps
+
+Main: 299 frames in 199881 us - 1495.890055 fps
+
+Main: 299 frames in 201705 us - 1482.362857 fps
+
+Main: 299 frames in 195918 us - 1526.148695 fps
+
+Main: 299 frames in 199464 us - 1499.017367 fps
+
+Main: 299 frames in 201423 us - 1484.438222 fps
+
+Main: 299 frames in 199438 us - 1499.212788 fps
+
+Main: 299 frames in 196913 us - 1518.437076 fps
+
+Main: 299 frames in 197822 us - 1511.459797 fps
+
+Main: 299 frames in 197127 us - 1516.788669 fps
+
+Main: 299 frames in 201642 us - 1482.825999 fps
+
+Main: 299 frames in 197831 us - 1511.391036 fps
+
+Main: 299 frames in 202088 us - 1479.553462 fps
+
+Main: 299 frames in 196085 us - 1524.848918 fps
+
+Main: 299 frames in 199244 us - 1500.672542 fps
+
+Main: 299 frames in 199622 us - 1497.830900 fps
+
+Main: 299 frames in 201020 us - 1487.414188 fps
+
+Main: 299 frames in 199097 us - 1501.780539 fps
+
+Main: 299 frames in 202986 us - 1473.007991 fps
+
+Main: 299 frames in 196609 us - 1520.784908 fps
+
+Main: 299 frames in 197178 us - 1516.396353 fps
+
+Main: 299 frames in 198019 us - 1509.956115 fps
+
+Main: 299 frames in 198734 us - 1504.523635 fps
+
+Main: 299 frames in 195869 us - 1526.530487 fps
+
+Main: 299 frames in 198923 us - 1503.094162 fps
+
+Main: 299 frames in 199717 us - 1497.118423 fps
+
+Main: 299 frames in 194751 us - 1535.293785 fps
+
+Main: 299 frames in 195409 us - 1530.123996 fps
+
+Main: 299 frames in 197481 us - 1514.069708 fps
+
+Main: 299 frames in 201540 us - 1483.576461 fps
+
+Main: 299 frames in 199950 us - 1495.373843 fps
+
+Main: 299 frames in 197762 us - 1511.918367 fps
+
+Main: 299 frames in 197113 us - 1516.896400 fps
+
+Main: 299 frames in 195378 us - 1530.366776 fps
+
+Main: 299 frames in 201122 us - 1486.659838 fps
+
+Main: 299 frames in 199075 us - 1501.946503 fps
+
+Main: 299 frames in 196476 us - 1521.814369 fps
+
+Main: 299 frames in 200820 us - 1488.895528 fps
+
+Main: 299 frames in 201627 us - 1482.936313 fps
+
+Main: 299 frames in 201115 us - 1486.711583 fps
+
+Main: 299 frames in 198542 us - 1505.978584 fps
+
+Main: 299 frames in 202583 us - 1475.938257 fps
+
+Main: 299 frames in 199609 us - 1497.928450 fps
+
+Main: 299 frames in 189807 us - 1575.284368 fps
+
+Main: 299 frames in 195796 us - 1527.099634 fps
+
+Main: 299 frames in 197246 us - 1515.873579 fps
+
+Main: 299 frames in 194435 us - 1537.788978 fps
+
+Main: 299 frames in 197079 us - 1517.158094 fps
+
+Main: 299 frames in 192612 us - 1552.343572 fps
+
+Main: 299 frames in 210946 us - 1417.424365 fps
+
+Main: 299 frames in 219453 us - 1362.478526 fps
+
+Main: 299 frames in 194929 us - 1533.891827 fps
+
+Main: 299 frames in 198637 us - 1505.258336 fps
+
+Main: 299 frames in 201498 us - 1483.885696 fps
+
+Main: 299 frames in 201272 us - 1485.551890 fps
+
+Main: 299 frames in 199760 us - 1496.796155 fps
+
+Main: 299 frames in 198762 us - 1504.311689 fps
+
+Main: 299 frames in 201355 us - 1484.939535 fps
+
+Main: 299 frames in 194818 us - 1534.765781 fps
+
+Main: 299 frames in 197291 us - 1515.527824 fps
+
+Main: 299 frames in 198215 us - 1508.463033 fps
+
+Main: 299 frames in 200435 us - 1491.755432 fps
+
+Main: 299 frames in 199449 us - 1499.130103 fps
+
+Main: 299 frames in 198357 us - 1507.383153 fps
+
+Main: 299 frames in 198807 us - 1503.971188 fps
+
+Main: 299 frames in 198192 us - 1508.638088 fps
+
+Main: 299 frames in 198450 us - 1506.676745 fps
+
+Main: 299 frames in 196255 us - 1523.528063 fps
+
+Main: 299 frames in 198546 us - 1505.948244 fps
+
+Main: 299 frames in 197851 us - 1511.238255 fps
+
+Main: 299 frames in 215105 us - 1390.018828 fps
+
+Main: 299 frames in 212490 us - 1407.125041 fps
+
+Main: 299 frames in 197538 us - 1513.632820 fps
+
+Main: 299 frames in 197850 us - 1511.245893 fps
+
+Main: 299 frames in 199765 us - 1496.758691 fps
+
+Main: 299 frames in 195426 us - 1529.990892 fps
+
+Main: 299 frames in 199834 us - 1496.241881 fps
+
+Main: 299 frames in 198073 us - 1509.544461 fps
+
+Main: 299 frames in 198478 us - 1506.464193 fps
+
+Main: 299 frames in 199333 us - 1500.002508 fps
+
+Main: 299 frames in 197737 us - 1512.109519 fps
+
+Main: 299 frames in 198440 us - 1506.752671 fps
+
+Main: 299 frames in 214649 us - 1392.971782 fps
+
+Main: 299 frames in 196976 us - 1517.951426 fps
+
+Main: 299 frames in 199008 us - 1502.452163 fps
+
+Main: 299 frames in 202104 us - 1479.436330 fps
+
+Main: 299 frames in 215512 us - 1387.393741 fps
+
+Main: 299 frames in 203579 us - 1468.717304 fps
+
+Main: 299 frames in 199687 us - 1497.343342 fps
+
+Main: 299 frames in 219361 us - 1363.049950 fps
+
+Main: 299 frames in 205388 us - 1455.781253 fps
+
+Main: 299 frames in 217416 us - 1375.243772 fps
+
+Main: 299 frames in 198215 us - 1508.463033 fps
+
+Main: 299 frames in 198614 us - 1505.432648 fps
+
+Main: 299 frames in 200268 us - 1492.999381 fps
+
+Main: 299 frames in 196770 us - 1519.540580 fps
+
+Main: 299 frames in 196305 us - 1523.140012 fps
+
+Main: 299 frames in 197881 us - 1511.009142 fps
+
+Main: 299 frames in 199456 us - 1499.077491 fps
+
+Main: 299 frames in 198820 us - 1503.872850 fps
+
+Main: 299 frames in 211889 us - 1411.116198 fps
+
+Main: 299 frames in 196600 us - 1520.854527 fps
+
+Main: 299 frames in 205563 us - 1454.541917 fps
+
+Main: 299 frames in 197493 us - 1513.977711 fps
+
+Main: 299 frames in 200259 us - 1493.066479 fps
+
+Main: 299 frames in 214285 us - 1395.337984 fps
+
+Main: 299 frames in 198959 us - 1502.822189 fps
+
+Main: 299 frames in 198135 us - 1509.072097 fps
+
+Main: 299 frames in 198380 us - 1507.208388 fps
+
+Main: 299 frames in 204384 us - 1462.932519 fps
+
+Main: 299 frames in 218642 us - 1367.532313 fps
+
+Main: 299 frames in 198318 us - 1507.679585 fps
+
+Main: 299 frames in 217027 us - 1377.708764 fps
+
+Main: 299 frames in 220199 us - 1357.862661 fps
+
+Main: 299 frames in 200792 us - 1489.103152 fps
+
+Main: 299 frames in 217187 us - 1376.693817 fps
+
+Main: 299 frames in 202146 us - 1479.128946 fps
+
+Main: 299 frames in 216439 us - 1381.451587 fps
+
+Main: 299 frames in 201328 us - 1485.138679 fps
+
+Main: 299 frames in 197434 us - 1514.430139 fps
+
+Main: 299 frames in 227644 us - 1313.454341 fps
+
+Main: 299 frames in 200429 us - 1491.800089 fps
+
+Main: 299 frames in 220784 us - 1354.264802 fps
+
+Main: 299 frames in 225113 us - 1328.221826 fps
+
+Main: 299 frames in 198323 us - 1507.641575 fps
+
+Main: 299 frames in 199682 us - 1497.380836 fps
+
+Main: 299 frames in 196212 us - 1523.861945 fps
+
+Main: 299 frames in 205961 us - 1451.731153 fps
+
+Main: 299 frames in 203078 us - 1472.340677 fps
+
+Main: 299 frames in 201698 us - 1482.414303 fps
+
+Main: 299 frames in 197202 us - 1516.211803 fps
+
+Main: 299 frames in 199975 us - 1495.186898 fps
+
+Main: 299 frames in 198296 us - 1507.846855 fps
+
+Main: 299 frames in 210101 us - 1423.125068 fps
+
+Main: 299 frames in 199850 us - 1496.122092 fps
+
+Main: 299 frames in 195785 us - 1527.185433 fps
+
+Main: 299 frames in 196297 us - 1523.202087 fps
+
+Main: 299 frames in 195670 us - 1528.082997 fps
+
+Main: 299 frames in 196205 us - 1523.916312 fps
+
+Main: 299 frames in 196582 us - 1520.993784 fps
+
+Main: 299 frames in 200203 us - 1493.484114 fps
+
+Main: 299 frames in 196222 us - 1523.784285 fps
+
+Main: 299 frames in 188734 us - 1584.240253 fps
+
+Main: 299 frames in 190795 us - 1567.127021 fps
+
+Main: 299 frames in 199344 us - 1499.919737 fps
+
+Main: 299 frames in 195280 us - 1531.134781 fps
+
+Main: 299 frames in 199063 us - 1502.037044 fps
+
+Main: 299 frames in 196962 us - 1518.059321 fps
+
+Main: 299 frames in 198054 us - 1509.689277 fps
+
+Main: 299 frames in 199115 us - 1501.644778 fps
+
+Main: 299 frames in 197959 us - 1510.413773 fps
+
+Main: 299 frames in 198246 us - 1508.227152 fps
+
+Main: 299 frames in 197733 us - 1512.140108 fps
+
+Main: 299 frames in 201486 us - 1483.974073 fps
+
+Main: 299 frames in 201865 us - 1481.187923 fps
+
+Main: 299 frames in 199420 us - 1499.348110 fps
+
+Main: 299 frames in 199424 us - 1499.318036 fps
+
+Main: 299 frames in 200013 us - 1494.902831 fps
+
+Main: 299 frames in 199838 us - 1496.211932 fps
+
+Main: 299 frames in 201662 us - 1482.678938 fps
+
+Main: 299 frames in 200184 us - 1493.625864 fps
+
+Main: 299 frames in 201676 us - 1482.576013 fps
+
+Main: 299 frames in 197739 us - 1512.094225 fps
+
+Main: 299 frames in 198461 us - 1506.593235 fps
+
+Main: 299 frames in 198826 us - 1503.827467 fps
+
+Main: 299 frames in 198087 us - 1509.437772 fps
+
+Main: 299 frames in 196489 us - 1521.713684 fps
+
+Main: 299 frames in 195707 us - 1527.794100 fps
+
+Main: 299 frames in 195888 us - 1526.382423 fps
+
+Main: 299 frames in 198612 us - 1505.447808 fps
+
+Main: 299 frames in 196423 us - 1522.224994 fps
+
+Main: 299 frames in 199932 us - 1495.508473 fps
+
+Main: 299 frames in 197257 us - 1515.789047 fps
+
+Main: 299 frames in 197481 us - 1514.069708 fps
+
+Main: 299 frames in 200039 us - 1494.708532 fps
+
+Main: 299 frames in 199797 us - 1496.518967 fps
+
+Main: 299 frames in 197617 us - 1513.027725 fps
+
+Main: 299 frames in 198482 us - 1506.433833 fps
+
+Main: 299 frames in 209961 us - 1424.073995 fps
+
+Main: 299 frames in 198848 us - 1503.661088 fps
+
+Main: 299 frames in 195011 us - 1533.246842 fps
+
+Main: 299 frames in 196654 us - 1520.436909 fps
+
+Main: 299 frames in 200666 us - 1490.038173 fps
+
+Main: 299 frames in 201235 us - 1485.825030 fps
+
+Main: 299 frames in 199125 us - 1501.569366 fps
+
+Main: 299 frames in 197653 us - 1512.752146 fps
+
+Main: 299 frames in 196598 us - 1520.869999 fps
+
+Main: 299 frames in 196239 us - 1523.652281 fps
+
+Main: 299 frames in 195704 us - 1527.817520 fps
+
+Main: 299 frames in 199749 us - 1496.878583 fps
+
+Main: 299 frames in 198485 us - 1506.411064 fps
+
+Main: 299 frames in 198654 us - 1505.129522 fps
+
+Main: 299 frames in 207790 us - 1438.952789 fps
+
+Main: 299 frames in 197244 us - 1515.888950 fps
+
+Main: 299 frames in 198674 us - 1504.978004 fps
+
+Main: 299 frames in 202331 us - 1477.776515 fps
+
+Main: 299 frames in 196845 us - 1518.961620 fps
+
+Main: 299 frames in 197051 us - 1517.373675 fps
+
+Main: 299 frames in 196401 us - 1522.395507 fps
+
+Main: 299 frames in 209612 us - 1426.445051 fps
+
+Main: 299 frames in 200363 us - 1492.291491 fps
+
+Main: 299 frames in 200058 us - 1494.566576 fps
+
+Main: 299 frames in 197253 us - 1515.819785 fps
+
+Main: 299 frames in 203479 us - 1469.439107 fps
+
+Main: 299 frames in 203197 us - 1471.478417 fps
+
+Main: 299 frames in 198190 us - 1508.653312 fps
+
+Main: 299 frames in 197099 us - 1517.004145 fps
+
+Main: 299 frames in 199900 us - 1495.747874 fps
+
+Main: 299 frames in 198955 us - 1502.852404 fps
+
+Main: 299 frames in 201260 us - 1485.640465 fps
+
+Main: 299 frames in 207850 us - 1438.537407 fps
+
+Main: 299 frames in 199831 us - 1496.264343 fps
+
+Main: 299 frames in 202193 us - 1478.785121 fps
+
+Main: 299 frames in 196822 us - 1519.139121 fps
+
+Main: 299 frames in 197178 us - 1516.396353 fps
+
+Main: 299 frames in 201857 us - 1481.246625 fps
+
+Main: 299 frames in 191886 us - 1558.216858 fps
+
+Main: 299 frames in 196097 us - 1524.755606 fps
+
+Main: 299 frames in 196329 us - 1522.953817 fps
+
+Main: 299 frames in 199389 us - 1499.581221 fps
+
+Main: 299 frames in 196710 us - 1520.004067 fps
+
+Main: 299 frames in 200563 us - 1490.803388 fps
+
+Main: 299 frames in 196543 us - 1521.295594 fps
+
+Main: 299 frames in 197380 us - 1514.844462 fps
+
+Main: 299 frames in 207061 us - 1444.018912 fps
+
+Main: 299 frames in 215025 us - 1390.535984 fps
+
+Main: 299 frames in 207119 us - 1443.614540 fps
+
+Main: 299 frames in 197331 us - 1515.220619 fps
+
+Main: 299 frames in 200416 us - 1491.896855 fps
+
+Main: 299 frames in 200422 us - 1491.852192 fps
+
+Main: 299 frames in 202072 us - 1479.670612 fps
+
+Main: 299 frames in 198795 us - 1504.061973 fps
+
+Main: 299 frames in 200551 us - 1490.892591 fps
+
+Main: 299 frames in 197066 us - 1517.258177 fps
+
+Main: 299 frames in 198539 us - 1506.001340 fps
+
+Main: 299 frames in 188930 us - 1582.596729 fps
+
+Main: 299 frames in 194394 us - 1538.113316 fps
+
+Main: 299 frames in 193636 us - 1544.134355 fps
+
+Main: 299 frames in 198065 us - 1509.605433 fps
+
+Main: 299 frames in 197702 us - 1512.377214 fps
+
+Main: 299 frames in 201531 us - 1483.642715 fps
+
+Main: 299 frames in 198223 us - 1508.402153 fps
+
+Main: 299 frames in 200889 us - 1488.384133 fps
+
+Main: 299 frames in 201264 us - 1485.610939 fps
+
+Main: 299 frames in 199354 us - 1499.844498 fps
+
+Main: 299 frames in 190569 us - 1568.985512 fps
+
+Main: 299 frames in 195813 us - 1526.967055 fps
+
+Main: 299 frames in 191045 us - 1565.076291 fps
+
+Main: 299 frames in 196485 us - 1521.744662 fps
+
+Main: 299 frames in 196054 us - 1525.090026 fps
+
+Main: 299 frames in 196591 us - 1520.924152 fps
+
+Main: 299 frames in 201125 us - 1486.637663 fps
+
+Main: 299 frames in 198448 us - 1506.691929 fps
+
+Main: 299 frames in 197486 us - 1514.031374 fps
+
+Main: 299 frames in 200793 us - 1489.095735 fps
+
+Main: 299 frames in 201488 us - 1483.959342 fps
+
+Main: 299 frames in 199007 us - 1502.459712 fps
+
+Main: 299 frames in 196143 us - 1524.398016 fps
+
+Main: 299 frames in 196518 us - 1521.489126 fps
+
+Main: 299 frames in 196403 us - 1522.380004 fps
+
+Main: 299 frames in 195681 us - 1527.997097 fps
+
+Main: 299 frames in 200862 us - 1488.584202 fps
+
+Main: 299 frames in 198951 us - 1502.882619 fps
+
+Main: 299 frames in 201157 us - 1486.401169 fps
+
+Main: 299 frames in 202966 us - 1473.153139 fps
+
+Main: 299 frames in 201610 us - 1483.061356 fps
+
+Main: 299 frames in 199730 us - 1497.020978 fps
+
+Main: 299 frames in 196881 us - 1518.683875 fps
+
+Main: 299 frames in 195523 us - 1529.231855 fps
+
+Main: 299 frames in 194054 us - 1540.808229 fps
+
+Main: 299 frames in 199481 us - 1498.889619 fps
+
+Main: 299 frames in 196271 us - 1523.403865 fps
+
+Main: 299 frames in 195758 us - 1527.396071 fps
+
+Main: 299 frames in 196647 us - 1520.491032 fps
+
+Main: 299 frames in 198269 us - 1508.052192 fps
+
+Main: 299 frames in 200970 us - 1487.784246 fps
+
+Main: 299 frames in 198550 us - 1505.917905 fps
+
+Main: 299 frames in 198664 us - 1505.053759 fps
+
+Main: 299 frames in 200224 us - 1493.327473 fps
+
+Main: 299 frames in 200531 us - 1491.041285 fps
+
+Main: 299 frames in 196074 us - 1524.934464 fps
+
+Main: 299 frames in 200936 us - 1488.035992 fps
+
+Main: 299 frames in 199277 us - 1500.424033 fps
+
+Main: 299 frames in 198408 us - 1506.995686 fps
+
+Main: 299 frames in 199755 us - 1496.833621 fps
+
+Main: 299 frames in 193608 us - 1544.357671 fps
+
+Main: 299 frames in 195692 us - 1527.911207 fps
+
+Main: 299 frames in 198199 us - 1508.584806 fps
+
+Main: 299 frames in 193910 us - 1541.952452 fps
+
+Main: 299 frames in 191230 us - 1563.562203 fps
+
+Main: 299 frames in 199114 us - 1501.652320 fps
+
+Main: 299 frames in 199482 us - 1498.882105 fps
+
+Main: 299 frames in 201634 us - 1482.884831 fps
+
+Main: 299 frames in 197913 us - 1510.764831 fps
+
+Main: 299 frames in 198551 us - 1505.910320 fps
+
+Main: 299 frames in 194261 us - 1539.166379 fps
+
+Main: 299 frames in 200327 us - 1492.559665 fps
+
+Main: 299 frames in 199492 us - 1498.806970 fps
+
+Main: 299 frames in 198435 us - 1506.790637 fps
+
+Main: 299 frames in 198555 us - 1505.879983 fps
+
+Main: 299 frames in 196043 us - 1525.175599 fps
+
+Main: 299 frames in 198015 us - 1509.986617 fps
+
+Main: 299 frames in 200697 us - 1489.808019 fps
+
+Main: 299 frames in 200209 us - 1493.439356 fps
+
+Main: 299 frames in 199676 us - 1497.425830 fps
+
+Main: 299 frames in 201604 us - 1483.105494 fps
+
+Main: 299 frames in 195017 us - 1533.199670 fps
+
+Main: 299 frames in 195531 us - 1529.169288 fps
+
+Main: 299 frames in 199742 us - 1496.931041 fps
+
+Main: 299 frames in 213759 us - 1398.771514 fps
+
+Main: 299 frames in 199531 us - 1498.514015 fps
+
+Main: 299 frames in 194808 us - 1534.844565 fps
+
+Main: 299 frames in 202685 us - 1475.195500 fps
+
+Main: 299 frames in 199974 us - 1495.194375 fps
+
+Main: 299 frames in 206098 us - 1450.766140 fps
+
+Main: 299 frames in 199822 us - 1496.331735 fps
+
+Main: 299 frames in 201127 us - 1486.622880 fps
+
+Main: 299 frames in 200878 us - 1488.465636 fps
+
+Main: 299 frames in 197850 us - 1511.245893 fps
+
+Main: 299 frames in 200742 us - 1489.474051 fps
+
+Main: 299 frames in 197460 us - 1514.230730 fps
+
+Main: 299 frames in 200768 us - 1489.281160 fps
+
+Main: 299 frames in 199161 us - 1501.297945 fps
+
+Main: 299 frames in 199337 us - 1499.972409 fps
+
+Main: 299 frames in 199133 us - 1501.509042 fps
+
+Main: 299 frames in 199516 us - 1498.626677 fps
+
+Main: 299 frames in 200817 us - 1488.917771 fps
+
+Main: 299 frames in 200777 us - 1489.214402 fps
+
+Main: 299 frames in 199011 us - 1502.429514 fps
+
+Main: 299 frames in 192761 us - 1551.143644 fps
+
+Main: 299 frames in 191544 us - 1560.999039 fps
+
+Main: 299 frames in 196342 us - 1522.852981 fps
+
+Main: 299 frames in 193498 us - 1545.235610 fps
+
+Main: 299 frames in 194950 us - 1533.726597 fps
+
+Main: 299 frames in 194181 us - 1539.800495 fps
+
+Main: 299 frames in 201341 us - 1485.042788 fps
+
+Main: 299 frames in 199085 us - 1501.871060 fps
+
+Main: 299 frames in 190171 us - 1572.269168 fps
+
+Main: 299 frames in 195394 us - 1530.241461 fps
+
+Main: 299 frames in 197389 us - 1514.775393 fps
+
+Main: 299 frames in 199267 us - 1500.499330 fps
+
+Main: 299 frames in 196183 us - 1524.087204 fps
+
+Main: 299 frames in 199802 us - 1496.481517 fps
+
+Main: 299 frames in 197490 us - 1514.000709 fps
+
+Main: 299 frames in 190880 us - 1566.429170 fps
+
+Main: 299 frames in 198616 us - 1505.417489 fps
+
+Main: 299 frames in 194201 us - 1539.641917 fps
+
+Main: 299 frames in 196575 us - 1521.047946 fps
+
+Main: 299 frames in 196364 us - 1522.682365 fps
+
+Main: 299 frames in 197096 us - 1517.027235 fps
+
+Main: 299 frames in 196505 us - 1521.589781 fps
+
+Main: 299 frames in 197276 us - 1515.643058 fps
+
+Main: 299 frames in 201202 us - 1486.068727 fps
+
+Main: 299 frames in 200316 us - 1492.641626 fps
+
+Main: 299 frames in 197632 us - 1512.912889 fps
+
+Main: 299 frames in 199295 us - 1500.288517 fps
+
+Main: 299 frames in 198175 us - 1508.767503 fps
+
+Main: 299 frames in 199438 us - 1499.212788 fps
+
+Main: 299 frames in 200142 us - 1493.939303 fps
+
+Main: 299 frames in 196682 us - 1520.220457 fps
+
+Main: 299 frames in 197160 us - 1516.534794 fps
+
+Main: 299 frames in 196576 us - 1521.040208 fps
+
+Main: 299 frames in 196255 us - 1523.528063 fps
+
+Main: 299 frames in 196303 us - 1523.155530 fps
+
+Main: 299 frames in 196257 us - 1523.512537 fps
+
+Main: 299 frames in 198442 us - 1506.737485 fps
+
+Main: 299 frames in 200511 us - 1491.190010 fps
+
+Main: 299 frames in 196826 us - 1519.108248 fps
+
+Main: 299 frames in 197497 us - 1513.947047 fps
+
+Main: 299 frames in 197921 us - 1510.703766 fps
+
+Main: 299 frames in 199479 us - 1498.904647 fps
+
+Main: 299 frames in 197731 us - 1512.155403 fps
+
+Main: 299 frames in 199149 us - 1501.388408 fps
+
+Main: 299 frames in 198233 us - 1508.326061 fps
+
+Main: 299 frames in 197092 us - 1517.058024 fps
+
+Main: 299 frames in 196709 us - 1520.011794 fps
+
+Main: 299 frames in 198519 us - 1506.153063 fps
+
+Main: 299 frames in 195069 us - 1532.790961 fps
+
+Main: 299 frames in 194262 us - 1539.158456 fps
+
+Main: 299 frames in 197770 us - 1511.857208 fps
+
+Main: 299 frames in 197267 us - 1515.712207 fps
+
+Main: 299 frames in 196162 us - 1524.250364 fps
+
+Main: 299 frames in 196154 us - 1524.312530 fps
+
+Main: 299 frames in 196732 us - 1519.834089 fps
+
+Main: 299 frames in 196612 us - 1520.761703 fps
+
+Main: 299 frames in 200206 us - 1493.461734 fps
+
+Main: 299 frames in 198784 us - 1504.145203 fps
+
+Main: 299 frames in 195241 us - 1531.440630 fps
+
+Main: 299 frames in 200552 us - 1490.885157 fps
+
+Main: 299 frames in 198812 us - 1503.933364 fps
+
+Main: 299 frames in 196758 us - 1519.633255 fps
+
+Main: 299 frames in 196402 us - 1522.387756 fps
+
+Main: 299 frames in 196515 us - 1521.512353 fps
+
+Main: 299 frames in 195999 us - 1525.517987 fps
+
+Main: 299 frames in 195250 us - 1531.370038 fps
+
+Main: 299 frames in 197075 us - 1517.188887 fps
+
+Main: 299 frames in 195638 us - 1528.332941 fps
+
+Main: 299 frames in 198669 us - 1505.015881 fps
+
+Main: 299 frames in 196021 us - 1525.346774 fps
+
+Main: 299 frames in 198087 us - 1509.437772 fps
+
+Main: 299 frames in 191356 us - 1562.532662 fps
+
+Main: 299 frames in 196931 us - 1518.298287 fps
+
+Main: 299 frames in 196858 us - 1518.861311 fps
+
+Main: 299 frames in 199185 us - 1501.117052 fps
+
+Main: 299 frames in 195638 us - 1528.332941 fps
+
+Main: 299 frames in 200805 us - 1489.006748 fps
+
+Main: 299 frames in 200142 us - 1493.939303 fps
+
+Main: 299 frames in 197961 us - 1510.398513 fps
+
+Main: 299 frames in 197335 us - 1515.189905 fps
+
+Main: 299 frames in 195609 us - 1528.559524 fps
+
+Main: 299 frames in 197262 us - 1515.750626 fps
+
+Main: 299 frames in 196399 us - 1522.411010 fps
+
+Main: 299 frames in 195883 us - 1526.421384 fps
+
+Main: 299 frames in 196818 us - 1519.169995 fps
+
+Main: 299 frames in 197576 us - 1513.341701 fps
+
+Main: 299 frames in 197054 us - 1517.350574 fps
+
+Main: 299 frames in 195973 us - 1525.720380 fps
+
+Main: 299 frames in 196177 us - 1524.133818 fps
+
+Main: 299 frames in 195563 us - 1528.919070 fps
+
+Main: 299 frames in 197019 us - 1517.620128 fps
+
+Main: 299 frames in 198633 us - 1505.288648 fps
+
+Main: 299 frames in 197096 us - 1517.027235 fps
+
+Main: 299 frames in 197282 us - 1515.596963 fps
+
+Main: 299 frames in 198068 us - 1509.582568 fps
+
+Main: 299 frames in 199630 us - 1497.770876 fps
+
+Main: 299 frames in 196862 us - 1518.830450 fps
+
+Main: 299 frames in 197338 us - 1515.166871 fps
+
+Main: 299 frames in 198825 us - 1503.835031 fps
+
+Main: 299 frames in 196295 us - 1523.217606 fps
+
+Main: 299 frames in 194191 us - 1539.721202 fps
+
+Main: 299 frames in 194692 us - 1535.759045 fps
+
+Main: 299 frames in 194608 us - 1536.421935 fps
+
+Main: 299 frames in 196273 us - 1523.388342 fps
+
+Main: 299 frames in 194835 us - 1534.631868 fps
+
+Main: 299 frames in 195864 us - 1526.569456 fps
+
+Main: 299 frames in 197084 us - 1517.119604 fps
+
+Main: 299 frames in 199008 us - 1502.452163 fps
+
+Main: 299 frames in 197413 us - 1514.591238 fps
+
+Main: 299 frames in 197997 us - 1510.123891 fps
+
+Main: 299 frames in 190843 us - 1566.732864 fps
+
+Main: 299 frames in 193261 us - 1547.130564 fps
+
+Main: 299 frames in 192598 us - 1552.456412 fps
+
+Main: 299 frames in 196221 us - 1523.792051 fps
+
+Main: 299 frames in 199342 us - 1499.934785 fps
+
+Main: 299 frames in 196006 us - 1525.463506 fps
+
+Main: 299 frames in 198454 us - 1506.646376 fps
+
+Main: 299 frames in 197512 us - 1513.832071 fps
+
+Main: 299 frames in 196104 us - 1524.701179 fps
+
+Main: 299 frames in 196140 us - 1524.421332 fps
+
+Main: 299 frames in 196411 us - 1522.317996 fps
+
+Main: 299 frames in 198460 us - 1506.600826 fps
+
+Main: 299 frames in 194433 us - 1537.804797 fps
+
+Main: 299 frames in 191024 us - 1565.248346 fps
+
+Main: 299 frames in 194774 us - 1535.112489 fps
+
+Main: 299 frames in 195263 us - 1531.268085 fps
+
+Main: 299 frames in 199906 us - 1495.702980 fps
+
+Main: 299 frames in 196823 us - 1519.131402 fps
+
+Main: 299 frames in 196603 us - 1520.831320 fps
+
+Main: 299 frames in 197918 us - 1510.726665 fps
+
+Main: 299 frames in 196641 us - 1520.537426 fps
+
+Main: 299 frames in 195468 us - 1529.662144 fps
+
+Main: 299 frames in 187088 us - 1598.178397 fps
+
+Main: 299 frames in 199346 us - 1499.904688 fps
+
+Main: 299 frames in 197976 us - 1510.284075 fps
+
+Main: 299 frames in 196777 us - 1519.486525 fps
+
+Main: 299 frames in 195655 us - 1528.200148 fps
+
+Main: 299 frames in 195364 us - 1530.476444 fps
+
+Main: 299 frames in 196736 us - 1519.803188 fps
+
+Main: 299 frames in 197661 us - 1512.690920 fps
+
+Main: 299 frames in 198369 us - 1507.291966 fps
+
+Main: 299 frames in 199814 us - 1496.391644 fps
+
+Main: 299 frames in 197471 us - 1514.146381 fps
+
+Main: 299 frames in 196466 us - 1521.891829 fps
+
+Main: 299 frames in 197354 us - 1515.044033 fps
+
+Main: 299 frames in 192426 us - 1553.844075 fps
+
+Main: 299 frames in 190185 us - 1572.153430 fps
+
+Main: 299 frames in 193312 us - 1546.722397 fps
+
+Main: 299 frames in 196223 us - 1523.776520 fps
+
+Main: 299 frames in 198939 us - 1502.973273 fps
+
+Main: 299 frames in 194702 us - 1535.680168 fps
+
+Main: 299 frames in 198000 us - 1510.101010 fps
+
+Main: 299 frames in 195674 us - 1528.051760 fps
+
+Main: 299 frames in 199050 us - 1502.135142 fps
+
+Main: 299 frames in 196379 us - 1522.566058 fps
+
+Main: 299 frames in 196522 us - 1521.458157 fps
+
+Main: 299 frames in 195931 us - 1526.047435 fps
+
+Main: 299 frames in 196243 us - 1523.621225 fps
+
+Main: 299 frames in 199278 us - 1500.416504 fps
+
+Main: 299 frames in 196545 us - 1521.280114 fps
+
+Main: 299 frames in 196511 us - 1521.543323 fps
+
+Main: 299 frames in 201082 us - 1486.955570 fps
+
+Main: 299 frames in 201004 us - 1487.532586 fps
+
+Main: 299 frames in 199267 us - 1500.499330 fps
+
+Main: 299 frames in 198669 us - 1505.015881 fps
+
+Main: 299 frames in 196274 us - 1523.380580 fps
+
+Main: 299 frames in 199055 us - 1502.097410 fps
+
+Main: 299 frames in 197611 us - 1513.073665 fps
+
+Main: 299 frames in 197559 us - 1513.471925 fps
+
+Main: 299 frames in 195008 us - 1533.270430 fps
+
+Main: 299 frames in 190522 us - 1569.372566 fps
+
+Main: 299 frames in 189870 us - 1574.761679 fps
+
+Main: 299 frames in 191295 us - 1563.030921 fps
+
+Main: 299 frames in 192386 us - 1554.167143 fps
+
+Main: 299 frames in 197207 us - 1516.173361 fps
+
+Main: 299 frames in 197139 us - 1516.696341 fps
+
+Main: 299 frames in 193332 us - 1546.562390 fps
+
+Main: 299 frames in 189875 us - 1574.720211 fps
+
+Main: 299 frames in 196843 us - 1518.977053 fps
+
+Main: 299 frames in 197014 us - 1517.658644 fps
+
+Main: 299 frames in 196773 us - 1519.517413 fps
+
+Main: 299 frames in 197599 us - 1513.165552 fps
+
+Main: 299 frames in 196934 us - 1518.275158 fps
+
+Main: 299 frames in 196545 us - 1521.280114 fps
+
+Main: 299 frames in 197511 us - 1513.839736 fps
+
+Main: 299 frames in 197945 us - 1510.520599 fps
+
+Main: 299 frames in 196320 us - 1523.023635 fps
+
+Main: 299 frames in 192361 us - 1554.369129 fps
+
+Main: 299 frames in 190837 us - 1566.782123 fps
+
+Main: 299 frames in 195307 us - 1530.923111 fps
+
+Main: 299 frames in 192705 us - 1551.594406 fps
+
+Main: 299 frames in 189922 us - 1574.330515 fps
+
+Main: 299 frames in 192535 us - 1552.964396 fps
+
+Main: 299 frames in 197199 us - 1516.234869 fps
+
+Main: 299 frames in 197061 us - 1517.296675 fps
+
+Main: 299 frames in 197627 us - 1512.951166 fps
+
+Main: 299 frames in 194406 us - 1538.018374 fps
+
+Main: 299 frames in 197594 us - 1513.203842 fps
+
+Main: 299 frames in 200133 us - 1494.006486 fps
+
+Main: 299 frames in 198025 us - 1509.910365 fps
+
+Main: 299 frames in 199435 us - 1499.235340 fps
+
+Main: 299 frames in 196242 us - 1523.628989 fps
+
+Main: 299 frames in 190241 us - 1571.690645 fps
+
+Main: 299 frames in 190198 us - 1572.045973 fps
+
+Main: 299 frames in 194341 us - 1538.532785 fps
+
+Main: 299 frames in 194143 us - 1540.101884 fps
+
+Main: 299 frames in 190840 us - 1566.757493 fps
+
+Main: 299 frames in 192817 us - 1550.693144 fps
+
+Main: 299 frames in 195978 us - 1525.681454 fps
+
+Main: 299 frames in 197814 us - 1511.520924 fps
+
+Main: 299 frames in 199083 us - 1501.886148 fps
+
+Main: 299 frames in 197809 us - 1511.559130 fps
+
+Main: 299 frames in 193560 us - 1544.740649 fps
+
+Main: 299 frames in 194498 us - 1537.290872 fps
+
+Main: 299 frames in 197015 us - 1517.650940 fps
+
+Main: 299 frames in 196785 us - 1519.424753 fps
+
+Main: 299 frames in 197815 us - 1511.513283 fps
+
+Main: 299 frames in 195732 us - 1527.598962 fps
+
+Main: 299 frames in 195728 us - 1527.630181 fps
+
+Main: 299 frames in 200903 us - 1488.280414 fps
+
+Main: 299 frames in 198107 us - 1509.285386 fps
+
+Main: 299 frames in 197393 us - 1514.744697 fps
+
+Main: 299 frames in 196189 us - 1524.040594 fps
+
+Main: 299 frames in 197190 us - 1516.304072 fps
+
+Main: 299 frames in 197140 us - 1516.688648 fps
+
+Main: 299 frames in 196575 us - 1521.047946 fps
+
+Main: 299 frames in 193455 us - 1545.579075 fps
+
+Main: 299 frames in 196844 us - 1518.969336 fps
+
+Main: 299 frames in 198283 us - 1507.945714 fps
+
+Main: 299 frames in 199564 us - 1498.266220 fps
+
+Main: 299 frames in 196826 us - 1519.108248 fps
+
+Main: 299 frames in 200788 us - 1489.132817 fps
+
+Main: 299 frames in 196081 us - 1524.880024 fps
+
+Main: 299 frames in 199082 us - 1501.893692 fps
+
+Main: 299 frames in 198530 us - 1506.069612 fps
+
+Main: 299 frames in 197778 us - 1511.796054 fps
+
+Main: 299 frames in 194086 us - 1540.554187 fps
+
+Main: 299 frames in 194144 us - 1540.093951 fps
+
+Main: 299 frames in 195480 us - 1529.568242 fps
+
+Main: 299 frames in 198460 us - 1506.600826 fps
+
+Main: 299 frames in 195778 us - 1527.240037 fps
+
+Main: 299 frames in 197028 us - 1517.550805 fps
+
+Main: 299 frames in 198842 us - 1503.706460 fps
+
+Main: 299 frames in 197493 us - 1513.977711 fps
+
+Main: 299 frames in 198271 us - 1508.036980 fps
+
+Main: 299 frames in 196524 us - 1521.442674 fps
+
+Main: 299 frames in 197977 us - 1510.276446 fps
+
+Main: 299 frames in 193066 us - 1548.693193 fps
+
+Main: 299 frames in 189986 us - 1573.800175 fps
+
+Main: 299 frames in 193759 us - 1543.154124 fps
+
+Main: 299 frames in 189435 us - 1578.377808 fps
+
+Main: 299 frames in 194237 us - 1539.356559 fps
+
+Main: 299 frames in 198486 us - 1506.403474 fps
+
+Main: 299 frames in 187276 us - 1596.574040 fps
+
+Main: 299 frames in 185528 us - 1611.616575 fps
+
+Main: 299 frames in 185630 us - 1610.731024 fps
+
+Main: 299 frames in 185068 us - 1615.622366 fps
+
+Main: 299 frames in 196686 us - 1520.189541 fps
+
+Main: 299 frames in 197991 us - 1510.169654 fps
+
+Main: 299 frames in 198545 us - 1505.955829 fps
+
+Main: 299 frames in 196956 us - 1518.105567 fps
+
+Main: 299 frames in 196698 us - 1520.096798 fps
+
+Main: 299 frames in 196975 us - 1517.959132 fps
+
+Main: 299 frames in 197395 us - 1514.729350 fps
+
+Main: 299 frames in 198660 us - 1505.084063 fps
+
+Main: 299 frames in 197449 us - 1514.315089 fps
+
+Main: 299 frames in 197744 us - 1512.055992 fps
+
+Main: 299 frames in 198691 us - 1504.849238 fps
+
+Main: 299 frames in 190446 us - 1569.998845 fps
+
+Main: 299 frames in 199904 us - 1495.717945 fps
+
+Main: 299 frames in 199088 us - 1501.848429 fps
+
+Main: 299 frames in 196405 us - 1522.364502 fps
+
+Main: 299 frames in 196429 us - 1522.178497 fps
+
+Main: 299 frames in 196030 us - 1525.276743 fps
+
+Main: 299 frames in 196534 us - 1521.365260 fps
+
+Main: 299 frames in 198334 us - 1507.557958 fps
+
+Main: 299 frames in 195382 us - 1530.335445 fps
+
+Main: 299 frames in 197219 us - 1516.081108 fps
+
+Main: 299 frames in 196587 us - 1520.955099 fps
+
+Main: 299 frames in 196362 us - 1522.697874 fps
+
+Main: 299 frames in 197300 us - 1515.458692 fps
+
+Main: 299 frames in 197066 us - 1517.258177 fps
+
+Main: 299 frames in 197119 us - 1516.850228 fps
+
+Main: 299 frames in 198041 us - 1509.788377 fps
+
+Main: 299 frames in 196777 us - 1519.486525 fps
+
+Main: 299 frames in 197604 us - 1513.127265 fps
+
+Main: 299 frames in 196649 us - 1520.475568 fps
+
+Main: 299 frames in 200479 us - 1491.428030 fps
+
+Main: 299 frames in 198395 us - 1507.094433 fps
+
+Main: 299 frames in 201255 us - 1485.677374 fps
+
+Main: 299 frames in 200477 us - 1491.442909 fps
+
+Main: 299 frames in 196947 us - 1518.174940 fps
+
+Main: 299 frames in 195835 us - 1526.795517 fps
+
+Main: 299 frames in 194002 us - 1541.221225 fps
+
+Main: 299 frames in 194530 us - 1537.037989 fps
+
+Main: 299 frames in 198434 us - 1506.798230 fps
+
+Main: 299 frames in 194118 us - 1540.300230 fps
+
+Main: 299 frames in 196139 us - 1524.429104 fps
+
+Main: 299 frames in 198536 us - 1506.024096 fps
+
+Main: 299 frames in 196583 us - 1520.986047 fps
+
+Main: 299 frames in 196876 us - 1518.722445 fps
+
+Main: 299 frames in 196525 us - 1521.434932 fps
+
+Main: 299 frames in 198533 us - 1506.046854 fps
+
+Main: 299 frames in 194182 us - 1539.792566 fps
+
+Main: 299 frames in 197834 us - 1511.368117 fps
+
+Main: 299 frames in 198447 us - 1506.699522 fps
+
+Main: 299 frames in 198160 us - 1508.881712 fps
+
+Main: 299 frames in 196926 us - 1518.336837 fps
+
+Main: 299 frames in 199245 us - 1500.665010 fps
+
+Main: 299 frames in 188587 us - 1585.475139 fps
+
+Main: 299 frames in 186457 us - 1603.586886 fps
+
+Main: 299 frames in 186101 us - 1606.654451 fps
+
+Main: 299 frames in 185335 us - 1613.294844 fps
+
+Main: 299 frames in 189321 us - 1579.328231 fps
+
+Main: 299 frames in 199403 us - 1499.475936 fps
+
+Main: 299 frames in 195215 us - 1531.644597 fps
+
+Main: 299 frames in 196015 us - 1525.393465 fps
+
+Main: 299 frames in 200664 us - 1490.053024 fps
+
+Main: 299 frames in 197107 us - 1516.942574 fps

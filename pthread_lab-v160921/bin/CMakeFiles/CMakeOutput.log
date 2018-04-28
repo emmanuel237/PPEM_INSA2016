@@ -1,0 +1,344 @@
+The system is: Windows - 6.1.7601 - x86
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler:  
+Build flags: 
+Id flags: 
+
+The output was:
+0
+Microsoft (R) Build Engine, version 12.0.30501.0
+[Microsoft .NET Framework, Version 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. Tous droits r‚serv‚s.
+
+La g‚n‚ration a d‚marr‚ 02/11/2016 20:37:00.
+Projet "C:\Users\ekiegain\Documents\TP_PPEM\pthread_lab-v160921\bin\CMakeFiles\3.6.0\CompilerIdC\CompilerIdC.vcxproj" sur le noud 1 (cibles par d‚faut).
+PrepareForBuild:
+  Cr‚ation du r‚pertoire "Debug\".
+  Cr‚ation du r‚pertoire "Debug\CompilerIdC.tlog\".
+InitializeBuildStatus:
+  Cr‚ation de "Debug\CompilerIdC.tlog\unsuccessfulbuild", car "AlwaysCreate" a ‚t‚ sp‚cifi‚.
+ClCompile:
+  C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /nologo /W0 /WX- /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue CMakeCCompilerId.c
+  CMakeCCompilerId.c
+Link:
+  C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCCompilerId.obj
+  CompilerIdC.vcxproj -> C:\Users\ekiegain\Documents\TP_PPEM\pthread_lab-v160921\bin\CMakeFiles\3.6.0\CompilerIdC\.\CompilerIdC.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_C_COMPILER=C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\cl.exe
+FinalizeBuildStatus:
+  Suppression du fichier "Debug\CompilerIdC.tlog\unsuccessfulbuild".
+  Mise … jour de l'horodatage "Debug\CompilerIdC.tlog\CompilerIdC.lastbuildstate".
+G‚n‚ration du projet "C:\Users\ekiegain\Documents\TP_PPEM\pthread_lab-v160921\bin\CMakeFiles\3.6.0\CompilerIdC\CompilerIdC.vcxproj" termin‚e (cibles par d‚faut).
+
+La g‚n‚ration a r‚ussi.
+    0 Avertissement(s)
+    0 Erreur(s)
+
+Temps ‚coul‚ 00:00:00.92
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
+
+The C compiler identification is MSVC, found in "C:/Users/ekiegain/Documents/TP_PPEM/pthread_lab-v160921/bin/CMakeFiles/3.6.0/CompilerIdC/CompilerIdC.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler:  
+Build flags: 
+Id flags: 
+
+The output was:
+0
+Microsoft (R) Build Engine, version 12.0.30501.0
+[Microsoft .NET Framework, Version 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. Tous droits r‚serv‚s.
+
+La g‚n‚ration a d‚marr‚ 02/11/2016 20:37:01.
+Projet "C:\Users\ekiegain\Documents\TP_PPEM\pthread_lab-v160921\bin\CMakeFiles\3.6.0\CompilerIdCXX\CompilerIdCXX.vcxproj" sur le noud 1 (cibles par d‚faut).
+PrepareForBuild:
+  Cr‚ation du r‚pertoire "Debug\".
+  Cr‚ation du r‚pertoire "Debug\CompilerIdCXX.tlog\".
+InitializeBuildStatus:
+  Cr‚ation de "Debug\CompilerIdCXX.tlog\unsuccessfulbuild", car "AlwaysCreate" a ‚t‚ sp‚cifi‚.
+ClCompile:
+  C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /nologo /W0 /WX- /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:queue CMakeCXXCompilerId.cpp
+  CMakeCXXCompilerId.cpp
+Link:
+  C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdCXX.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCXXCompilerId.obj
+  CompilerIdCXX.vcxproj -> C:\Users\ekiegain\Documents\TP_PPEM\pthread_lab-v160921\bin\CMakeFiles\3.6.0\CompilerIdCXX\.\CompilerIdCXX.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_CXX_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_CXX_COMPILER=C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\cl.exe
+FinalizeBuildStatus:
+  Suppression du fichier "Debug\CompilerIdCXX.tlog\unsuccessfulbuild".
+  Mise … jour de l'horodatage "Debug\CompilerIdCXX.tlog\CompilerIdCXX.lastbuildstate".
+G‚n‚ration du projet "C:\Users\ekiegain\Documents\TP_PPEM\pthread_lab-v160921\bin\CMakeFiles\3.6.0\CompilerIdCXX\CompilerIdCXX.vcxproj" termin‚e (cibles par d‚faut).
+
+La g‚n‚ration a r‚ussi.
+    0 Avertissement(s)
+    0 Erreur(s)
+
+Temps ‚coul‚ 00:00:00.52
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
+
+The CXX compiler identification is MSVC, found in "C:/Users/ekiegain/Documents/TP_PPEM/pthread_lab-v160921/bin/CMakeFiles/3.6.0/CompilerIdCXX/CompilerIdCXX.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: C:/Users/ekiegain/Documents/TP_PPEM/pthread_lab-v160921/bin/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files/MSBuild/12.0/bin/MSBuild.exe" "cmTC_e94fc.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine, version 12.0.30501.0
+[Microsoft .NET Framework, Version 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. Tous droits r‚serv‚s.
+
+La g‚n‚ration a d‚marr‚ 02/11/2016 20:37:02.
+Projet "C:\Users\ekiegain\Documents\TP_PPEM\pthread_lab-v160921\bin\CMakeFiles\CMakeTmp\cmTC_e94fc.vcxproj" sur le noud 1 (cibles par d‚faut).
+PrepareForBuild:
+  Cr‚ation du r‚pertoire "cmTC_e94fc.dir\Debug\".
+  Cr‚ation du r‚pertoire "C:\Users\ekiegain\Documents\TP_PPEM\pthread_lab-v160921\bin\CMakeFiles\CMakeTmp\Debug\".
+  Cr‚ation du r‚pertoire "cmTC_e94fc.dir\Debug\cmTC_e94fc.tlog\".
+InitializeBuildStatus:
+  Cr‚ation de "cmTC_e94fc.dir\Debug\cmTC_e94fc.tlog\unsuccessfulbuild", car "AlwaysCreate" a ‚t‚ sp‚cifi‚.
+ClCompile:
+  C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_e94fc.dir\Debug\\" /Fd"cmTC_e94fc.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\ekiegain\Documents\TP_PPEM\pthread_lab-v160921\bin\CMakeFiles\CMakeTmp\testCCompiler.c"
+  Compilateur d'optimisation Microsoft (R) C/C++ versionÿ18.00.30501 pour x86
+  Copyright (C) Microsoft Corporation. Tous droits r‚serv‚s.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_e94fc.dir\Debug\\" /Fd"cmTC_e94fc.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\ekiegain\Documents\TP_PPEM\pthread_lab-v160921\bin\CMakeFiles\CMakeTmp\testCCompiler.c"
+  
+  testCCompiler.c
+Link:
+  C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\ekiegain\Documents\TP_PPEM\pthread_lab-v160921\bin\CMakeFiles\CMakeTmp\Debug\cmTC_e94fc.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/ekiegain/Documents/TP_PPEM/pthread_lab-v160921/bin/CMakeFiles/CMakeTmp/Debug/cmTC_e94fc.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/ekiegain/Documents/TP_PPEM/pthread_lab-v160921/bin/CMakeFiles/CMakeTmp/Debug/cmTC_e94fc.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_e94fc.dir\Debug\testCCompiler.obj
+  cmTC_e94fc.vcxproj -> C:\Users\ekiegain\Documents\TP_PPEM\pthread_lab-v160921\bin\CMakeFiles\CMakeTmp\Debug\cmTC_e94fc.exe
+FinalizeBuildStatus:
+  Suppression du fichier "cmTC_e94fc.dir\Debug\cmTC_e94fc.tlog\unsuccessfulbuild".
+  Mise … jour de l'horodatage "cmTC_e94fc.dir\Debug\cmTC_e94fc.tlog\cmTC_e94fc.lastbuildstate".
+G‚n‚ration du projet "C:\Users\ekiegain\Documents\TP_PPEM\pthread_lab-v160921\bin\CMakeFiles\CMakeTmp\cmTC_e94fc.vcxproj" termin‚e (cibles par d‚faut).
+
+La g‚n‚ration a r‚ussi.
+    0 Avertissement(s)
+    0 Erreur(s)
+
+Temps ‚coul‚ 00:00:00.85
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: C:/Users/ekiegain/Documents/TP_PPEM/pthread_lab-v160921/bin/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files/MSBuild/12.0/bin/MSBuild.exe" "cmTC_e488a.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine, version 12.0.30501.0
+[Microsoft .NET Framework, Version 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. Tous droits r‚serv‚s.
+
+La g‚n‚ration a d‚marr‚ 02/11/2016 20:37:03.
+Projet "C:\Users\ekiegain\Documents\TP_PPEM\pthread_lab-v160921\bin\CMakeFiles\CMakeTmp\cmTC_e488a.vcxproj" sur le noud 1 (cibles par d‚faut).
+PrepareForBuild:
+  Cr‚ation du r‚pertoire "cmTC_e488a.dir\Debug\".
+  Cr‚ation du r‚pertoire "C:\Users\ekiegain\Documents\TP_PPEM\pthread_lab-v160921\bin\CMakeFiles\CMakeTmp\Debug\".
+  Cr‚ation du r‚pertoire "cmTC_e488a.dir\Debug\cmTC_e488a.tlog\".
+InitializeBuildStatus:
+  Cr‚ation de "cmTC_e488a.dir\Debug\cmTC_e488a.tlog\unsuccessfulbuild", car "AlwaysCreate" a ‚t‚ sp‚cifi‚.
+ClCompile:
+  C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_e488a.dir\Debug\\" /Fd"cmTC_e488a.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeCCompilerABI.c"
+  Compilateur d'optimisation Microsoft (R) C/C++ versionÿ18.00.30501 pour x86
+  Copyright (C) Microsoft Corporation. Tous droits r‚serv‚s.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_e488a.dir\Debug\\" /Fd"cmTC_e488a.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeCCompilerABI.c"
+  
+  CMakeCCompilerABI.c
+Link:
+  C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\ekiegain\Documents\TP_PPEM\pthread_lab-v160921\bin\CMakeFiles\CMakeTmp\Debug\cmTC_e488a.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/ekiegain/Documents/TP_PPEM/pthread_lab-v160921/bin/CMakeFiles/CMakeTmp/Debug/cmTC_e488a.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/ekiegain/Documents/TP_PPEM/pthread_lab-v160921/bin/CMakeFiles/CMakeTmp/Debug/cmTC_e488a.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_e488a.dir\Debug\CMakeCCompilerABI.obj
+  cmTC_e488a.vcxproj -> C:\Users\ekiegain\Documents\TP_PPEM\pthread_lab-v160921\bin\CMakeFiles\CMakeTmp\Debug\cmTC_e488a.exe
+FinalizeBuildStatus:
+  Suppression du fichier "cmTC_e488a.dir\Debug\cmTC_e488a.tlog\unsuccessfulbuild".
+  Mise … jour de l'horodatage "cmTC_e488a.dir\Debug\cmTC_e488a.tlog\cmTC_e488a.lastbuildstate".
+G‚n‚ration du projet "C:\Users\ekiegain\Documents\TP_PPEM\pthread_lab-v160921\bin\CMakeFiles\CMakeTmp\cmTC_e488a.vcxproj" termin‚e (cibles par d‚faut).
+
+La g‚n‚ration a r‚ussi.
+    0 Avertissement(s)
+    0 Erreur(s)
+
+Temps ‚coul‚ 00:00:00.56
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: C:/Users/ekiegain/Documents/TP_PPEM/pthread_lab-v160921/bin/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files/MSBuild/12.0/bin/MSBuild.exe" "cmTC_1e871.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine, version 12.0.30501.0
+[Microsoft .NET Framework, Version 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. Tous droits r‚serv‚s.
+
+La g‚n‚ration a d‚marr‚ 02/11/2016 20:37:04.
+Projet "C:\Users\ekiegain\Documents\TP_PPEM\pthread_lab-v160921\bin\CMakeFiles\CMakeTmp\cmTC_1e871.vcxproj" sur le noud 1 (cibles par d‚faut).
+PrepareForBuild:
+  Cr‚ation du r‚pertoire "cmTC_1e871.dir\Debug\".
+  Cr‚ation du r‚pertoire "C:\Users\ekiegain\Documents\TP_PPEM\pthread_lab-v160921\bin\CMakeFiles\CMakeTmp\Debug\".
+  Cr‚ation du r‚pertoire "cmTC_1e871.dir\Debug\cmTC_1e871.tlog\".
+InitializeBuildStatus:
+  Cr‚ation de "cmTC_1e871.dir\Debug\cmTC_1e871.tlog\unsuccessfulbuild", car "AlwaysCreate" a ‚t‚ sp‚cifi‚.
+ClCompile:
+  C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_1e871.dir\Debug\\" /Fd"cmTC_1e871.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:queue "C:\Users\ekiegain\Documents\TP_PPEM\pthread_lab-v160921\bin\CMakeFiles\CMakeTmp\testCXXCompiler.cxx"
+  Compilateur d'optimisation Microsoft (R) C/C++ versionÿ18.00.30501 pour x86
+  Copyright (C) Microsoft Corporation. Tous droits r‚serv‚s.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_1e871.dir\Debug\\" /Fd"cmTC_1e871.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:queue "C:\Users\ekiegain\Documents\TP_PPEM\pthread_lab-v160921\bin\CMakeFiles\CMakeTmp\testCXXCompiler.cxx"
+  
+  testCXXCompiler.cxx
+Link:
+  C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\ekiegain\Documents\TP_PPEM\pthread_lab-v160921\bin\CMakeFiles\CMakeTmp\Debug\cmTC_1e871.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/ekiegain/Documents/TP_PPEM/pthread_lab-v160921/bin/CMakeFiles/CMakeTmp/Debug/cmTC_1e871.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/ekiegain/Documents/TP_PPEM/pthread_lab-v160921/bin/CMakeFiles/CMakeTmp/Debug/cmTC_1e871.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_1e871.dir\Debug\testCXXCompiler.obj
+  cmTC_1e871.vcxproj -> C:\Users\ekiegain\Documents\TP_PPEM\pthread_lab-v160921\bin\CMakeFiles\CMakeTmp\Debug\cmTC_1e871.exe
+FinalizeBuildStatus:
+  Suppression du fichier "cmTC_1e871.dir\Debug\cmTC_1e871.tlog\unsuccessfulbuild".
+  Mise … jour de l'horodatage "cmTC_1e871.dir\Debug\cmTC_1e871.tlog\cmTC_1e871.lastbuildstate".
+G‚n‚ration du projet "C:\Users\ekiegain\Documents\TP_PPEM\pthread_lab-v160921\bin\CMakeFiles\CMakeTmp\cmTC_1e871.vcxproj" termin‚e (cibles par d‚faut).
+
+La g‚n‚ration a r‚ussi.
+    0 Avertissement(s)
+    0 Erreur(s)
+
+Temps ‚coul‚ 00:00:00.50
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: C:/Users/ekiegain/Documents/TP_PPEM/pthread_lab-v160921/bin/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files/MSBuild/12.0/bin/MSBuild.exe" "cmTC_6c0e2.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine, version 12.0.30501.0
+[Microsoft .NET Framework, Version 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. Tous droits r‚serv‚s.
+
+La g‚n‚ration a d‚marr‚ 02/11/2016 20:37:05.
+Projet "C:\Users\ekiegain\Documents\TP_PPEM\pthread_lab-v160921\bin\CMakeFiles\CMakeTmp\cmTC_6c0e2.vcxproj" sur le noud 1 (cibles par d‚faut).
+PrepareForBuild:
+  Cr‚ation du r‚pertoire "cmTC_6c0e2.dir\Debug\".
+  Cr‚ation du r‚pertoire "C:\Users\ekiegain\Documents\TP_PPEM\pthread_lab-v160921\bin\CMakeFiles\CMakeTmp\Debug\".
+  Cr‚ation du r‚pertoire "cmTC_6c0e2.dir\Debug\cmTC_6c0e2.tlog\".
+InitializeBuildStatus:
+  Cr‚ation de "cmTC_6c0e2.dir\Debug\cmTC_6c0e2.tlog\unsuccessfulbuild", car "AlwaysCreate" a ‚t‚ sp‚cifi‚.
+ClCompile:
+  C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_6c0e2.dir\Debug\\" /Fd"cmTC_6c0e2.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:queue "C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeCXXCompilerABI.cpp"
+  Compilateur d'optimisation Microsoft (R) C/C++ versionÿ18.00.30501 pour x86
+  Copyright (C) Microsoft Corporation. Tous droits r‚serv‚s.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_6c0e2.dir\Debug\\" /Fd"cmTC_6c0e2.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:queue "C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeCXXCompilerABI.cpp"
+  
+  CMakeCXXCompilerABI.cpp
+Link:
+  C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\ekiegain\Documents\TP_PPEM\pthread_lab-v160921\bin\CMakeFiles\CMakeTmp\Debug\cmTC_6c0e2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/ekiegain/Documents/TP_PPEM/pthread_lab-v160921/bin/CMakeFiles/CMakeTmp/Debug/cmTC_6c0e2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/ekiegain/Documents/TP_PPEM/pthread_lab-v160921/bin/CMakeFiles/CMakeTmp/Debug/cmTC_6c0e2.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_6c0e2.dir\Debug\CMakeCXXCompilerABI.obj
+  cmTC_6c0e2.vcxproj -> C:\Users\ekiegain\Documents\TP_PPEM\pthread_lab-v160921\bin\CMakeFiles\CMakeTmp\Debug\cmTC_6c0e2.exe
+FinalizeBuildStatus:
+  Suppression du fichier "cmTC_6c0e2.dir\Debug\cmTC_6c0e2.tlog\unsuccessfulbuild".
+  Mise … jour de l'horodatage "cmTC_6c0e2.dir\Debug\cmTC_6c0e2.tlog\cmTC_6c0e2.lastbuildstate".
+G‚n‚ration du projet "C:\Users\ekiegain\Documents\TP_PPEM\pthread_lab-v160921\bin\CMakeFiles\CMakeTmp\cmTC_6c0e2.vcxproj" termin‚e (cibles par d‚faut).
+
+La g‚n‚ration a r‚ussi.
+    0 Avertissement(s)
+    0 Erreur(s)
+
+Temps ‚coul‚ 00:00:00.51
+
+
+
+
+Detecting CXX [] compiler features compiled with the following output:
+Change Dir: C:/Users/ekiegain/Documents/TP_PPEM/pthread_lab-v160921/bin/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files/MSBuild/12.0/bin/MSBuild.exe" "cmTC_6885d.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine, version 12.0.30501.0
+[Microsoft .NET Framework, Version 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. Tous droits r‚serv‚s.
+
+La g‚n‚ration a d‚marr‚ 02/11/2016 20:37:05.
+Projet "C:\Users\ekiegain\Documents\TP_PPEM\pthread_lab-v160921\bin\CMakeFiles\CMakeTmp\cmTC_6885d.vcxproj" sur le noud 1 (cibles par d‚faut).
+PrepareForBuild:
+  Cr‚ation du r‚pertoire "cmTC_6885d.dir\Debug\".
+  Cr‚ation du r‚pertoire "C:\Users\ekiegain\Documents\TP_PPEM\pthread_lab-v160921\bin\CMakeFiles\CMakeTmp\Debug\".
+  Cr‚ation du r‚pertoire "cmTC_6885d.dir\Debug\cmTC_6885d.tlog\".
+InitializeBuildStatus:
+  Cr‚ation de "cmTC_6885d.dir\Debug\cmTC_6885d.tlog\unsuccessfulbuild", car "AlwaysCreate" a ‚t‚ sp‚cifi‚.
+ClCompile:
+  C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_6885d.dir\Debug\\" /Fd"cmTC_6885d.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:queue "C:\Users\ekiegain\Documents\TP_PPEM\pthread_lab-v160921\bin\CMakeFiles\feature_tests.cxx"
+  Compilateur d'optimisation Microsoft (R) C/C++ versionÿ18.00.30501 pour x86
+  Copyright (C) Microsoft Corporation. Tous droits r‚serv‚s.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_6885d.dir\Debug\\" /Fd"cmTC_6885d.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:queue "C:\Users\ekiegain\Documents\TP_PPEM\pthread_lab-v160921\bin\CMakeFiles\feature_tests.cxx"
+  
+  feature_tests.cxx
+Link:
+  C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\ekiegain\Documents\TP_PPEM\pthread_lab-v160921\bin\CMakeFiles\CMakeTmp\Debug\cmTC_6885d.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/ekiegain/Documents/TP_PPEM/pthread_lab-v160921/bin/CMakeFiles/CMakeTmp/Debug/cmTC_6885d.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/ekiegain/Documents/TP_PPEM/pthread_lab-v160921/bin/CMakeFiles/CMakeTmp/Debug/cmTC_6885d.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_6885d.dir\Debug\feature_tests.obj
+  cmTC_6885d.vcxproj -> C:\Users\ekiegain\Documents\TP_PPEM\pthread_lab-v160921\bin\CMakeFiles\CMakeTmp\Debug\cmTC_6885d.exe
+FinalizeBuildStatus:
+  Suppression du fichier "cmTC_6885d.dir\Debug\cmTC_6885d.tlog\unsuccessfulbuild".
+  Mise … jour de l'horodatage "cmTC_6885d.dir\Debug\cmTC_6885d.tlog\cmTC_6885d.lastbuildstate".
+G‚n‚ration du projet "C:\Users\ekiegain\Documents\TP_PPEM\pthread_lab-v160921\bin\CMakeFiles\CMakeTmp\cmTC_6885d.vcxproj" termin‚e (cibles par d‚faut).
+
+La g‚n‚ration a r‚ussi.
+    0 Avertissement(s)
+    0 Erreur(s)
+
+Temps ‚coul‚ 00:00:00.56
+
+
+    Feature record: CXX_FEATURE:1cxx_alias_templates
+    Feature record: CXX_FEATURE:0cxx_alignas
+    Feature record: CXX_FEATURE:0cxx_alignof
+    Feature record: CXX_FEATURE:0cxx_attributes
+    Feature record: CXX_FEATURE:0cxx_attribute_deprecated
+    Feature record: CXX_FEATURE:1cxx_auto_type
+    Feature record: CXX_FEATURE:0cxx_binary_literals
+    Feature record: CXX_FEATURE:0cxx_constexpr
+    Feature record: CXX_FEATURE:1cxx_contextual_conversions
+    Feature record: CXX_FEATURE:1cxx_decltype
+    Feature record: CXX_FEATURE:0cxx_decltype_auto
+    Feature record: CXX_FEATURE:1cxx_default_function_template_args
+    Feature record: CXX_FEATURE:1cxx_defaulted_functions
+    Feature record: CXX_FEATURE:0cxx_defaulted_move_initializers
+    Feature record: CXX_FEATURE:1cxx_delegating_constructors
+    Feature record: CXX_FEATURE:0cxx_deleted_functions
+    Feature record: CXX_FEATURE:0cxx_digit_separators
+    Feature record: CXX_FEATURE:1cxx_enum_forward_declarations
+    Feature record: CXX_FEATURE:1cxx_explicit_conversions
+    Feature record: CXX_FEATURE:1cxx_extended_friend_declarations
+    Feature record: CXX_FEATURE:1cxx_extern_templates
+    Feature record: CXX_FEATURE:1cxx_final
+    Feature record: CXX_FEATURE:0cxx_func_identifier
+    Feature record: CXX_FEATURE:0cxx_generalized_initializers
+    Feature record: CXX_FEATURE:0cxx_generic_lambdas
+    Feature record: CXX_FEATURE:0cxx_inheriting_constructors
+    Feature record: CXX_FEATURE:0cxx_inline_namespaces
+    Feature record: CXX_FEATURE:1cxx_lambdas
+    Feature record: CXX_FEATURE:0cxx_lambda_init_captures
+    Feature record: CXX_FEATURE:1cxx_local_type_template_args
+    Feature record: CXX_FEATURE:1cxx_long_long_type
+    Feature record: CXX_FEATURE:0cxx_noexcept
+    Feature record: CXX_FEATURE:0cxx_nonstatic_member_init
+    Feature record: CXX_FEATURE:1cxx_nullptr
+    Feature record: CXX_FEATURE:1cxx_override
+    Feature record: CXX_FEATURE:1cxx_range_for
+    Feature record: CXX_FEATURE:1cxx_raw_string_literals
+    Feature record: CXX_FEATURE:0cxx_reference_qualified_functions
+    Feature record: CXX_FEATURE:0cxx_return_type_deduction
+    Feature record: CXX_FEATURE:1cxx_right_angle_brackets
+    Feature record: CXX_FEATURE:1cxx_rvalue_references
+    Feature record: CXX_FEATURE:0cxx_sizeof_member
+    Feature record: CXX_FEATURE:1cxx_static_assert
+    Feature record: CXX_FEATURE:1cxx_strong_enums
+    Feature record: CXX_FEATURE:1cxx_template_template_parameters
+    Feature record: CXX_FEATURE:0cxx_thread_local
+    Feature record: CXX_FEATURE:1cxx_trailing_return_types
+    Feature record: CXX_FEATURE:0cxx_unicode_literals
+    Feature record: CXX_FEATURE:1cxx_uniform_initialization
+    Feature record: CXX_FEATURE:0cxx_unrestricted_unions
+    Feature record: CXX_FEATURE:0cxx_user_literals
+    Feature record: CXX_FEATURE:0cxx_variable_templates
+    Feature record: CXX_FEATURE:1cxx_variadic_macros
+    Feature record: CXX_FEATURE:1cxx_variadic_templates

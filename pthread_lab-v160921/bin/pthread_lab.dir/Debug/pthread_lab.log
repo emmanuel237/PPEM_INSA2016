@@ -1,0 +1,28 @@
+﻿Build started 05/12/2016 10:07:48.
+     1>Project "C:\Users\ekiegain\Documents\TP_PPEM\pthread_lab-v160921\bin\pthread_lab.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Users\ekiegain\Documents\TP_PPEM\pthread_lab-v160921\include" /I"C:\Users\ekiegain\Documents\TP_PPEM\pthread_lab-v160921\lib\SDL2-2.0.5\include" /I"C:\Users\ekiegain\Documents\TP_PPEM\pthread_lab-v160921\lib\pthread-2.8.0\include" /Zi /nologo /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _CRT_SECURE_NO_WARNINGS /D "PROJECT_ROOT_PATH=\"C:/Users/ekiegain/Documents/TP_PPEM/pthread_lab-v160921\"" /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"pthread_lab.dir\Debug\\" /Fd"pthread_lab.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt "C:\Users\ekiegain\Documents\TP_PPEM\pthread_lab-v160921\src\main.c"
+         main.c
+     1>C:\Users\ekiegain\Documents\TP_PPEM\pthread_lab-v160921\src\main.c(365): warning C4101: 'gy' : unreferenced local variable
+     1>C:\Users\ekiegain\Documents\TP_PPEM\pthread_lab-v160921\src\main.c(365): warning C4101: 'gx' : unreferenced local variable
+     1>C:\Users\ekiegain\Documents\TP_PPEM\pthread_lab-v160921\src\main.c(383): warning C4101: 'gy' : unreferenced local variable
+     1>C:\Users\ekiegain\Documents\TP_PPEM\pthread_lab-v160921\src\main.c(383): warning C4101: 'gx' : unreferenced local variable
+     1>c:\users\ekiegain\documents\tp_ppem\pthread_lab-v160921\src\main.c(311): warning C4716: 'sobel_tread' : must return a value
+     1>c:\users\ekiegain\documents\tp_ppem\pthread_lab-v160921\src\main.c(376): warning C4716: 'sobel_edges_tread_slave' : must return a value
+     1>c:\users\ekiegain\documents\tp_ppem\pthread_lab-v160921\src\main.c(399): warning C4716: 'sobel_edges_thread_func' : must return a value
+     1>c:\users\ekiegain\documents\tp_ppem\pthread_lab-v160921\src\main.c(478): warning C4716: 'sobel2' : must return a value
+     1>c:\users\ekiegain\documents\tp_ppem\pthread_lab-v160921\src\main.c(508): warning C4716: 'sobel3' : must return a value
+     1>c:\users\ekiegain\documents\tp_ppem\pthread_lab-v160921\src\main.c(553): warning C4716: 'sobel_slv_thread' : must return a value
+     1>c:\users\ekiegain\documents\tp_ppem\pthread_lab-v160921\src\main.c(584): warning C4716: 'sobel_slv_thread_barrier' : must return a value
+       Link:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\ekiegain\Documents\TP_PPEM\pthread_lab-v160921\bin\Debug\pthread_lab.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib "..\lib\SDL2-2.0.5\lib\SDL2main.lib" "..\lib\SDL2-2.0.5\lib\SDL2.lib" "..\lib\pthread-2.8.0\lib\pthreadVC2.lib" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/ekiegain/Documents/TP_PPEM/pthread_lab-v160921/bin/Debug/pthread_lab.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/ekiegain/Documents/TP_PPEM/pthread_lab-v160921/bin/Debug/pthread_lab.lib" /MACHINE:X86 /PROFILE /SAFESEH  /machine:X86 pthread_lab.dir\Debug\clock.obj
+         pthread_lab.dir\Debug\main.obj
+         pthread_lab.dir\Debug\yuvDisplay.obj
+         pthread_lab.dir\Debug\yuvRead.obj
+     1>LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/PROFILE' specification
+         pthread_lab.vcxproj -> C:\Users\ekiegain\Documents\TP_PPEM\pthread_lab-v160921\bin\Debug\pthread_lab.exe
+     1>Done Building Project "C:\Users\ekiegain\Documents\TP_PPEM\pthread_lab-v160921\bin\pthread_lab.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.37
